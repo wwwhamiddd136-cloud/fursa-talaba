@@ -232,6 +232,8 @@ if __name__ == "__main__":
     for name, fn in SOURCES:
         try:
             got = fn()
+            if not got:
+                raise RuntimeError('source returned 0 items (blocked or empty)')
             status[name] = {"ok": True, "count": len(got)}
         except Exception as e:
             got = [x for x in old.get("items", []) if x.get("source") == name]
