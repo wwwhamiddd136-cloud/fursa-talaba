@@ -1,9 +1,9 @@
 {
-"updated": "2026-11-24T20:04:25Z",
+"updated": "2026-11-24T20:10:58Z",
 "sources": {
 "emploi-public.ma": {
 "ok": true,
-"count": 145
+"count": 550
 },
 "stage.ma": {
 "ok": true,
@@ -15,7 +15,7 @@
 },
 "dreamjob.ma": {
 "ok": true,
-"count": 112
+"count": 0
 }
 },
 "items": [
@@ -51,457 +51,6 @@
 "source": "alwadifa-maroc.com",
 "url": "https://alwadifa-maroc.com/offre/show/id/23884",
 "lang": "ar"
-},
-{
-"type": "emploi",
-"title": "RMA recrute 5 profils en CDI à Casablanca en data, transformation et opérations",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/rma-recrute-5-profils-en-cdi-a-casablanca-en-data-transformation-et-operations/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "L’Institut français du Maroc recrute des formateurs auto-entrepreneurs pour la coopération éducative",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/linstitut-francais-du-maroc-recrute-des-formateurs-auto-entrepreneurs-pour-la-cooperation-educative/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Orange Business lance une grande campagne de recrutement de 43 profils au Maroc",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"سلا"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/orange-business-lance-une-grande-campagne-de-recrutement-de-43-profils-au-maroc/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "4 postes de postdoctorants en agronomie et génomique à pourvoir chez l’UM6P à Benguerir",
-"title_ar": "",
-"org": "",
-"cities": [],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/4-postes-de-postdoctorants-en-agronomie-et-genomique-a-pourvoir-chez-lum6p-a-benguerir/",
-"kind": ""
-},
-{
-"type": "stage",
-"title": "5 offres de stage ingénieur en réseaux et télécommunications chez BTechnologie à Rabat",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/stage/5-offres-de-stage-ingenieur-en-reseaux-et-telecommunications-chez-btechnologie-a-rabat/",
-"kind": "تدريب"
-},
-{
-"type": "emploi",
-"title": "2 offres d’emploi d’ingénieur et technicien process chez Xiezhong International à Kénitra",
-"title_ar": "",
-"org": "",
-"cities": [
-"القنيطرة"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/2-offres-demploi-dingenieur-et-technicien-process-chez-xiezhong-international-a-kenitra/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "PwC recrute des consultants expérimentés en transformation de la fonction finance à Casablanca",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/pwc-recrute-des-consultants-experimentes-en-transformation-de-la-fonction-finance-a-casablanca/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Concours de Recrutement Tanger Région Sport 2026 (6 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"طنجة"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/concours-de-recrutement-tanger-region-sport-2026-6-postes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "3 postes en restauration et expérience client à pourvoir chez Waldorf Astoria Rabat Salé",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط",
-"سلا"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/3-postes-en-restauration-et-experience-client-a-pourvoir-chez-waldorf-astoria-rabat-sale/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Concours de Recrutement Ministère de la Santé 2027 (370 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"الرباط",
-"مراكش",
-"فاس",
-"أكادير",
-"وجدة",
-"تطوان",
-"بني ملال",
-"العيون",
-"الداخلة"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/concours-de-recrutement-ministere-de-la-sante-2027-370-postes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Mecachrome recrute 6 profils en CDI à Tanger en qualité, HSE, production et planification",
-"title_ar": "",
-"org": "",
-"cities": [
-"طنجة"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/mecachrome-recrute-6-profils-en-cdi-a-tanger-en-qualite-hse-production-et-planification/",
-"kind": ""
-},
-{
-"type": "stage",
-"title": "2 offres de stage pré-embauche chez Bamy Trucks Maroc en vente et ADV",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/stage/2-offres-de-stage-pre-embauche-chez-bamy-trucks-maroc-en-vente-et-adv/",
-"kind": "تدريب"
-},
-{
-"type": "concours",
-"title": "Concours de Recrutement Ministère de la Santé 2027 (160 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"الرباط",
-"مراكش",
-"فاس",
-"أكادير",
-"وجدة",
-"تطوان",
-"بني ملال",
-"العيون",
-"الداخلة"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/concours-de-recrutement-ministere-de-la-sante-2027-160-postes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "LUSEO embauche des techniciens en électricité du bâtiment de niveau Bac+2 à Marrakech",
-"title_ar": "",
-"org": "",
-"cities": [
-"مراكش"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/luseo-embauche-des-techniciens-en-electricite-du-batiment-de-niveau-bac2-a-marrakech/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "SEGULA Technologies embauche des préparateurs outils coupants de niveau Bac+2 à Nouaceur",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/segula-technologies-embauche-des-preparateurs-outils-coupants-de-niveau-bac2-a-nouaceur/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Concours de Recrutement SONACOS 2026 (2 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"تازة"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/concours-de-recrutement-sonacos-2026-2-postes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Figeac Aéro recrute 4 agents d’emballage de niveau Bac+2 sur son site de Nouaceur",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/figeac-aero-recrute-4-agents-demballage-de-niveau-bac2-sur-son-site-de-nouaceur/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Liste des Convoqués Concours SRM Drâa-Tafilalet 2026 (140 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/resultats-concours/liste-des-convoques-concours-srm-draa-tafilalet-2026-140-postes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Valoris Partners recrute des consultants comptables confirmés à Casablanca en CDI",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/valoris-partners-recrute-des-consultants-comptables-confirmes-a-casablanca-en-cdi/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "SOFIMED renforce ses équipes commerciales et recrute des technico-commerciaux terrain à Casablanca",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/sofimed-renforce-ses-equipes-commerciales-et-recrute-des-technico-commerciaux-terrain-a-casablanca/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Concours de Recrutement SONARGES 2026 (5 Opérateurs de Maintenance des Pelouses)",
-"title_ar": "",
-"org": "",
-"cities": [
-"وجدة"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/concours-de-recrutement-sonarges-2026-5-operateurs-de-maintenance-des-pelouses/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Colorado lance une campagne de recrutement de 8 profils en CDI à Casablanca",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/colorado-lance-une-campagne-de-recrutement-de-8-profils-en-cdi-a-casablanca/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Robert & Partners embauche 2 profils en coupe textile et conception mécanique à Casablanca",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/robert-partners-embauche-2-profils-en-coupe-textile-et-conception-mecanique-a-casablanca/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Entreprise industrielle à Safi renforce ses équipes finance et achats au siège",
-"title_ar": "",
-"org": "",
-"cities": [
-"آسفي"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/entreprise-industrielle-renforce-ses-equipes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Fondation Arrawaj recrute des Chargés de Portefeuille et Chefs d’Agence (Tout le Maroc)",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"الرباط"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/fondation-arrawaj-recrute-plusieurs-profils-tout-le-maroc/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "wolouj.men.gov.ma التسجيل في مباراة التعليم 2027/2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"الرباط",
-"مراكش",
-"فاس",
-"مكناس",
-"طنجة",
-"أكادير",
-"وجدة",
-"تطوان",
-"القنيطرة",
-"المحمدية"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/alwadifa/woulouj-men-gov-ma/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Tawdif.men.gov.ma التسجيل في مباراة التعليم 2027/2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"الرباط",
-"مراكش",
-"فاس",
-"مكناس",
-"طنجة",
-"أكادير",
-"وجدة",
-"تطوان",
-"القنيطرة",
-"المحمدية"
-],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/alwadifa/tawdif-men-gov-ma/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "لوائح المدعوين لاجتياز الاختبارات الكتابية لمباراة التعليم دورة نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/resultats-concours/liste-des-convoques-ecrit-mobarat-taalim-novembre-2026/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "نتائج الانتقاء الاولي لمباراة التعليم دورة نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/resultats-concours/resultats-preselection-concours-taalim-novembre-2026/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "الأكاديميات الجهوية للتربية والتكوين: المواقع الرسمية والمقرات في 12 جهة",
-"title_ar": "",
-"org": "",
-"cities": [],
-"published": "2026-11-24",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/alwadifa/sites-web-academies-regionales/",
-"kind": ""
 },
 {
 "type": "concours",
@@ -562,536 +111,6 @@
 "lang": "ar"
 },
 {
-"type": "emploi",
-"title": "Managem lance une grande campagne de recrutement de 16 profils dans plusieurs villes",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"مراكش",
-"وجدة"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/managem-lance-une-grande-campagne-de-recrutement-de-16-profils-dans-plusieurs-villes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "10 postes d’ingénieurs, techniciens et cadres à pourvoir chez Novec",
-"title_ar": "",
-"org": "",
-"cities": [
-"سلا"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/10-postes-dingenieurs-techniciens-et-cadres-a-pourvoir-chez-novec/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Concours de Recrutement Caisse de Dépôt et de Gestion 2026 (3 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/concours-de-recrutement-caisse-de-depot-et-de-gestion-2026-3-postes/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Concours de Recrutement LPEE Casablanca 2026 (5 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/concours-de-recrutement-lpee-casablanca-2026-5-postes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "8 offres d’emploi en CDI chez Vicenne et ses filiales du secteur médical",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"الرباط",
-"مراكش",
-"مكناس",
-"طنجة",
-"تمارة"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/8-offres-demploi-en-cdi-chez-vicenne-et-ses-filiales-du-secteur-medical/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Commerciaux et vendeurs: Midis Group recrute 11 profils dans l’IT à Casablanca",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/commerciaux-et-vendeurs-midis-group-recrute-11-profils-dans-lit-a-casablanca/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Conseillers commerciaux en réception d’appels: Foundever recrute sur son site de Casablanca",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/conseillers-commerciaux-en-reception-dappels-foundever-recrute-sur-son-site-de-casablanca/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Une entreprise industrielle recrute des talents dans plusieurs domaines à Safi et Jorf Lasfar",
-"title_ar": "",
-"org": "",
-"cities": [
-"آسفي"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/une-entreprise-industrielle-recrute-des-talents-dans-plusieurs-domaines-a-safi-et-jorf-lasfar/",
-"kind": ""
-},
-{
-"type": "stage",
-"title": "SIS Consultants recrute 2 stagiaires pré-embauche Bac+4 en gestion et finance à Rabat",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/stage/sis-consultants-recrute-2-stagiaires-pre-embauche-bac4-en-gestion-et-finance-a-rabat/",
-"kind": "تدريب"
-},
-{
-"type": "stage",
-"title": "Élèves ingénieurs: Saham Bank recrute des stagiaires PFE en IT, data et risques",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/stage/eleves-ingenieurs-saham-bank-recrute-des-stagiaires-pfe-en-it-data-et-risques/",
-"kind": "تدريب"
-},
-{
-"type": "emploi",
-"title": "Techniciens et ingénieurs: Bontaz Maroc recrute 8 profils en CDI à El Jadida",
-"title_ar": "",
-"org": "",
-"cities": [
-"الجديدة"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/techniciens-et-ingenieurs-bontaz-maroc-recrute-8-profils-en-cdi-a-el-jadida/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "8 offres d’emploi et de stage chez Siemens Healthineers à Casablanca",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/8-offres-demploi-et-de-stage-chez-siemens-healthineers-a-casablanca/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Accueil et paie: URBAGEC recrute 2 profils expérimentés à Mohammedia",
-"title_ar": "",
-"org": "",
-"cities": [
-"المحمدية"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/accueil-et-paie-urbagec-recrute-2-profils-experimentes-a-mohammedia/",
-"kind": ""
-},
-{
-"type": "stage",
-"title": "Témara: Laboratoire Sintegr recrute des stagiaires débutants dans 5 domaines",
-"title_ar": "",
-"org": "",
-"cities": [
-"تمارة"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/stage/temara-laboratoire-sintegr-recrute-des-stagiaires-debutants-dans-5-domaines/",
-"kind": "تدريب"
-},
-{
-"type": "emploi",
-"title": "Analystes crédit: Wafasalaf recrute des profils Bac+4/5 avec 3 à 5 ans d’expérience",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/analystes-credit-wafasalaf-recrute-des-profils-bac4-5-avec-3-a-5-ans-dexperience/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "ARIA recrute 20 commerciaux sédentaires B2B à Témara en CDI",
-"title_ar": "",
-"org": "",
-"cities": [
-"تمارة"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/aria-recrute-20-commerciaux-sedentaires-b2b-a-temara-en-cdi/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "BROME Consulting embauche des chefs de projet digital pour la banque à Casablanca",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/brome-consulting-embauche-des-chefs-de-projet-digital-pour-la-banque-a-casablanca/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "EXMC renforce ses équipes avec 2 profils en IAM et pilotage à Rabat et Salé",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط",
-"سلا"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/exmc-renforce-ses-equipes-avec-2-profils-en-iam-et-pilotage-a-rabat-et-sale/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Concours de Recrutement Chambre d’Artisanat de Guelmim-Oued Noun 2026 (2 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/concours-de-recrutement-chambre-dartisanat-de-guelmim-oued-noun-2026-2-postes/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Report des Examens d’Aptitude Professionnelle Ministère de l’Éducation Nationale 2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/report-des-examens-daptitude-professionnelle-ministere-de-leducation-nationale-2026/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "DoubleTree by Hilton renforce ses équipes spa et réception avec 2 profils à Casablanca",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/doubletree-by-hilton-renforce-ses-equipes-spa-et-reception-avec-2-profils-a-casablanca/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Sinoma CDI renforce ses équipes de chantier avec 3 profils à Nador et Agadir",
-"title_ar": "",
-"org": "",
-"cities": [
-"أكادير",
-"الناظور"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/sinoma-cdi-renforce-ses-equipes-de-chantier-avec-3-profils-a-nador-et-agadir/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Liste des Convoqués à l’Oral Concours Agence Nationale du Soutien Social 2026 (30 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/resultats-concours/liste-des-convoques-a-loral-concours-agence-nationale-du-soutien-social-2026-30-postes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Fez Smart Factory (FSF) recrute Plusieurs Profils à Fès",
-"title_ar": "",
-"org": "",
-"cities": [
-"فاس"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/fez-smart-factory-fsf-recrute-plusieurs-profils-a-fes/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Concours de Recrutement DGAPR 2026 (348 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"مراكش",
-"فاس"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/concours-de-recrutement-dgapr-2026-348-postes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Grande campagne de recrutement Calliope: plusieurs postes à saisir partout au Maroc",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"الرباط",
-"مراكش",
-"أكادير",
-"بني ملال",
-"العيون"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/grande-campagne-de-recrutement-calliope-plusieurs-postes-a-saisir-partout-au-maroc/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "ADM Value recrute à Rabat: découvrez nos nouvelles opportunités !",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/adm-value-recrute-plusieurs-profils/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "extranet.dgapr.gov.ma 2026 التسجيل في مباريات إدارة السجون",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"الرباط"
-],
-"published": "2026-11-23",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/alwadifa/extranet-dgapr-gov-ma/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Ingénierie et RH: Yazaki recrute 28 profils à Tanger, Meknès et Kénitra",
-"title_ar": "",
-"org": "",
-"cities": [
-"مكناس",
-"طنجة",
-"القنيطرة"
-],
-"published": "2026-11-22",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/ingenierie-et-rh-yazaki-recrute-28-profils-a-tanger-meknes-et-kenitra/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Maroc Climate and Security lance une campagne de recrutement de 16 postes à Casablanca",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-22",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/maroc-climate-and-security-lance-une-campagne-de-recrutement-de-16-postes-a-casablanca/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Jadara Foundation recrute 2 profils en coordination et accompagnement des jeunes à Agadir et Errachidia",
-"title_ar": "",
-"org": "",
-"cities": [
-"أكادير"
-],
-"published": "2026-11-22",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/jadara-foundation-recrute-2-profils-en-coordination-et-accompagnement-des-jeunes-a-agadir-et-errachidia/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Punch by Badr Hari embauche 2 profils en direction sportive et community management à Casablanca",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-22",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/punch-by-badr-hari-embauche-2-profils-en-direction-sportive-et-community-management-a-casablanca/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Claes Médical Service renforce ses équipes avec 4 profils biomédicaux et administratifs à Bouskoura",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-22",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/claes-medical-service-renforce-ses-equipes-avec-4-profils-biomedicaux-et-administratifs-a-bouskoura/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Concours d’Agrégation Ministère de l’Éducation Nationale 2027 (240 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"published": "2026-11-22",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/concours-dagregation-ministere-de-leducation-nationale-2027-240-postes/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Concours de Recrutement Ministère de l’Éducation Nationale 2026 (1759 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"published": "2026-11-22",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/concours-de-recrutement-ministere-de-leducation-nationale-2026-1759-postes/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "بطاقات توصيف الاختبارات الكتابية لمباريات ولوج أطر المختصين دورة دجنبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [],
-"published": "2026-11-22",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/alwadifa/tawsif-ecrit-concours-mokhtassin-2026/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "نماذج امتحانات مباراة التعليم الكتابي والشفوي جميع التخصصات",
-"title_ar": "",
-"org": "",
-"cities": [],
-"published": "2026-11-22",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/alwadifa/exemples-concours-taalim/",
-"kind": ""
-},
-{
 "type": "concours",
 "title": "بطاقات توصيف الاختبارات الكتابية لمباريات ولوج سلك تكوين الأطر المختصة بالمراكز الجهوية لمهن التربية والتكوين",
 "title_ar": "",
@@ -1122,79 +141,6 @@
 "lang": "ar"
 },
 {
-"type": "emploi",
-"title": "Foods & Goods recrute 5 profils à Bouskoura et dans tout le Maroc en CDI",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-21",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/foods-goods-recrute-5-profils-a-bouskoura-et-dans-tout-le-maroc-en-cdi/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Finance et marketing: DAMOS Group recrute 5 cadres pour sa holding et ses filiales",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-21",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/finance-et-marketing-damos-group-recrute-5-cadres-pour-sa-holding-et-ses-filiales/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Après-vente automobile: Bamotors Maroc recrute pour son nouvel atelier Piassaty à Marrakech",
-"title_ar": "",
-"org": "",
-"cities": [
-"مراكش"
-],
-"published": "2026-11-21",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/apres-vente-automobile-bamotors-maroc-recrute-pour-son-nouvel-atelier-piassaty-a-marrakech/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Vendeurs et prévendeurs: Oglo Nuts recrute à Casablanca, Nador, Oujda et Agadir",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"أكادير",
-"وجدة",
-"الناظور"
-],
-"published": "2026-11-21",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/vendeurs-et-prevendeurs-oglo-nuts-recrute-a-casablanca-nador-oujda-et-agadir/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Chrono Diali recrute des commerciaux en prestations de services à Casablanca en CDI",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-21",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/chrono-diali-recrute-des-commerciaux-en-prestations-de-services-a-casablanca-en-cdi/",
-"kind": ""
-},
-{
 "type": "concours",
 "title": "وزارة التشغيل والحوار الاجتماعي: مرشحي الاختبار الشفوي لمباريات توظيف 40 منصبا في عدة درجات وتخصصات",
 "title_ar": "",
@@ -1207,384 +153,6 @@
 "source": "alwadifa-maroc.com",
 "url": "https://alwadifa-maroc.com/offre/show/id/23877",
 "lang": "ar"
-},
-{
-"type": "emploi",
-"title": "Lamalif Group lance une campagne de recrutement de 6 profils dans 3 villes",
-"title_ar": "",
-"org": "",
-"cities": [
-"مراكش",
-"فاس",
-"تمارة"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/lamalif-group-lance-une-campagne-de-recrutement-de-6-profils-dans-3-villes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "SIS Consultants lance une campagne de recrutement d’enquêteurs dans tout le Maroc",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/sis-consultants-lance-une-campagne-de-recrutement-denqueteurs-dans-tout-le-maroc/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Robert & Partners recrute 2 cadres en communication et génie civil à Casablanca",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/robert-partners-recrute-2-cadres-en-communication-et-genie-civil-a-casablanca/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "iTech BTP lance une campagne de recrutement de formateurs vacataires en team building",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/itech-btp-lance-une-campagne-de-recrutement-de-formateurs-vacataires-en-team-building/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "HellermannTyton recrute des agents centrale matière en production à Tanger en CDI",
-"title_ar": "",
-"org": "",
-"cities": [
-"طنجة"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/hellermanntyton-recrute-des-agents-centrale-matiere-en-production-a-tanger-en-cdi/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Groupe Mojazine recrute 2 cadres en finance et génie civil à Casablanca en CDI",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/groupe-mojazine-recrute-2-cadres-en-finance-et-genie-civil-a-casablanca-en-cdi/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Concours de Recrutement Agence Nationale des Ports 2026 (5 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"المحمدية",
-"آسفي",
-"العيون"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/concours-de-recrutement-agence-nationale-des-ports-2026-5-postes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Force de vente: SOMADIR recrute des superviseurs des ventes dans plusieurs villes",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/force-de-vente-somadir-recrute-des-superviseurs-des-ventes-dans-plusieurs-villes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Intersig Maroc embauche des mécaniciens poids lourds et engins à Dar Bouazza",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/intersig-maroc-embauche-des-mecaniciens-poids-lourds-et-engins-a-dar-bouazza/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Résultats Concours ONCF 2026 (680 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/resultats-concours/resultats-concours-oncf-2026-680-postes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Logistique et supply chain: SEBN Maroc recrute 3 profils à Bouknadel",
-"title_ar": "",
-"org": "",
-"cities": [
-"سلا"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/logistique-et-supply-chain-sebn-maroc-recrute-3-profils-a-bouknadel/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Liste des Convoqués à l’Oral Concours Ministère de l’Emploi et du Dialogue Social 2026 (40 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط",
-"المحمدية"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/resultats-concours/liste-des-convoques-a-loral-concours-ministere-de-lemploi-et-du-dialogue-social-2026-40-postes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "EDC renforce ses équipes financières avec 2 régisseurs à Casablanca Finance City",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/edc-renforce-ses-equipes-financieres-avec-2-regisseurs-a-casablanca-finance-city/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Concours de Recrutement Université Ibn Tofail 2026 (3 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"القنيطرة"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/concours-de-recrutement-universite-ibn-tofail-2026-3-postes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Oncorad Group recrute des pharmaciens hospitaliers à Marrakech et Tétouan en CDI",
-"title_ar": "",
-"org": "",
-"cities": [
-"مراكش",
-"تطوان"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/oncorad-group-recrute-des-pharmaciens-hospitaliers-a-marrakech-et-tetouan-en-cdi/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Rafii lance une campagne de recrutement en maintenance et production à Ait Melloul",
-"title_ar": "",
-"org": "",
-"cities": [
-"أكادير"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/rafii-lance-une-campagne-de-recrutement-en-maintenance-et-production-a-ait-melloul/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "IN Groupe recrute 4 profils à Casablanca",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/in-groupe-recrute-4-profils-a-casablanca/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Relation client bancaire: DEKRA recrute des chargés de clientèle à Sidi Maârouf",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/relation-client-bancaire-dekra-recrute-des-charges-de-clientele-a-sidi-maarouf/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "BTP et production: Saint-Gobain Maroc recrute 3 profils à Agadir, Casablanca et Tétouan",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"أكادير",
-"تطوان"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/btp-et-production-saint-gobain-maroc-recrute-3-profils-a-agadir-casablanca-et-tetouan/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Liste des Convoqués Concours SRM Oriental 2026 (32 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"وجدة"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/resultats-concours/liste-des-convoques-concours-srm-oriental-2026-32-postes/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Concours de Recrutement Holding Al Omrane 2026 (5 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط",
-"بني ملال"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/concours-de-recrutement-holding-al-omrane-2026-5-postes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "TDM Aerospace recrute des opérateurs de production à Nouaceur en CDI",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/tdm-aerospace-recrute-des-operateurs-de-production-a-nouaceur-en-cdi/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "2 offres d’emploi chez Militzer & Münch Maroc à Casablanca et Tanger",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"طنجة"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/2-offres-demploi-chez-militzer-munch-maroc-a-casablanca-et-tanger/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Super Auto Group recrute 9 talents en CDI: ventes, après-vente, qualité, finance et logistique",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط",
-"سلا",
-"تمارة"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/super-auto-group-recrute-9-talents-en-cdi-ventes-apres-vente-qualite-finance-et-logistique/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "UTAC embauche 2 profils en ADV et gestion de projet à Khouribga et Oued Zem",
-"title_ar": "",
-"org": "",
-"cities": [
-"خريبكة"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/utac-embauche-2-profils-en-adv-et-gestion-de-projet-a-khouribga-et-oued-zem/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "QCM Concours Police Maroc نماذج مباريات الأمن الوطني الشرطة",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"الرباط"
-],
-"published": "2026-11-20",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/alwadifa/qcm-dgsn-police/",
-"kind": ""
 },
 {
 "type": "concours",
@@ -1615,213 +183,6 @@
 "lang": "ar"
 },
 {
-"type": "concours",
-"title": "Liste des Convoqués Concours Ministère de la Santé 2026 (2094 Infirmiers et Techniciens)",
-"title_ar": "",
-"org": "",
-"cities": [
-"مراكش",
-"وجدة",
-"بني ملال",
-"الداخلة"
-],
-"published": "2026-11-19",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/resultats-concours/liste-des-convoques-concours-ministere-de-la-sante-2026-2094-infirmiers-et-techniciens/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Mazagan Beach & Golf Resort renforce ses équipes avec 4 profils à El Jadida",
-"title_ar": "",
-"org": "",
-"cities": [
-"الجديدة"
-],
-"published": "2026-11-19",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/mazagan-beach-golf-resort-renforce-ses-equipes-avec-4-profils-a-el-jadida/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "LAPHAMEK lance une campagne de recrutement de délégués médico-pharmaceutiques dans 7 villes",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط",
-"فاس",
-"مكناس",
-"طنجة",
-"وجدة",
-"القنيطرة",
-"الناظور"
-],
-"published": "2026-11-19",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/laphamek-lance-une-campagne-de-recrutement-de-delegues-medico-pharmaceutiques-dans-7-villes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Petit Forestier lance une grande campagne de recrutement de 11 profils à Casablanca",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-19",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/petit-forestier-lance-une-grande-campagne-de-recrutement-de-11-profils-a-casablanca/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Commerce, RH et qualité: le cabinet KOP recrute 6 profils à Casablanca et Bouskoura",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-19",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/commerce-rh-et-qualite-le-cabinet-kop-recrute-6-profils-a-casablanca-et-bouskoura/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Tata Consultancy Services embauche 2 profils en support informatique à Casablanca",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-19",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/tata-consultancy-services-embauche-2-profils-en-support-informatique-a-casablanca/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "HellermannTyton recrute des coordinateurs de production en injection plastique à Tanger en CDI",
-"title_ar": "",
-"org": "",
-"cities": [
-"طنجة"
-],
-"published": "2026-11-19",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/hellermanntyton-recrute-des-coordinateurs-de-production-en-injection-plastique-a-tanger-en-cdi/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Medicalex recrute 2 profils en commercial et informatique à Mohammedia en CDI",
-"title_ar": "",
-"org": "",
-"cities": [
-"المحمدية"
-],
-"published": "2026-11-19",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/medicalex-recrute-2-profils-en-commercial-et-informatique-a-mohammedia-en-cdi/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Auto Hall lance une grande campagne de recrutement de 58 profils en CDI",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"مكناس"
-],
-"published": "2026-11-19",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/auto-hall-lance-une-grande-campagne-de-recrutement-de-58-profils-en-cdi/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Transformation digitale: le cabinet Masaï recrute 6 profils de consultants seniors à Casablanca",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء"
-],
-"published": "2026-11-19",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/transformation-digitale-le-cabinet-masai-recrute-6-profils-de-consultants-seniors-a-casablanca/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Topographie: L’ANAPEC recrute 100 techniciens spécialisés dans plusieurs villes du Maroc",
-"title_ar": "",
-"org": "",
-"cities": [
-"سلا"
-],
-"published": "2026-11-19",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/topographie-lanapec-recrute-100-techniciens-specialises-dans-plusieurs-villes-du-maroc/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Ingénierie ferroviaire et finance de projets: Siemens Mobility recrute 2 profils à Rabat",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"published": "2026-11-19",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/ingenierie-ferroviaire-et-finance-de-projets-siemens-mobility-recrute-2-profils-a-rabat/",
-"kind": ""
-},
-{
-"type": "concours",
-"title": "Concours de Recrutement Agence pour l’Aménagement de la Vallée du Bouregreg 2026 (3 Postes)",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"published": "2026-11-19",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi-public/concours-de-recrutement-agence-pour-lamenagement-de-la-vallee-du-bouregreg-2026-3-postes/",
-"kind": ""
-},
-{
-"type": "emploi",
-"title": "Super Auto Group recrute 3 profils en qualité, magasin et après-vente en CDI",
-"title_ar": "",
-"org": "",
-"cities": [
-"الدار البيضاء",
-"الرباط"
-],
-"published": "2026-11-19",
-"deadline": null,
-"source": "dreamjob.ma",
-"url": "https://www.dreamjob.ma/emploi/super-auto-group-recrute-3-profils-en-qualite-magasin-et-apres-vente-en-cdi/",
-"kind": ""
-},
-{
 "type": "stage",
 "title": "Stage community manager en club de padel",
 "title_ar": "",
@@ -1835,7 +196,7 @@
 "pay": "",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9370-stage-community-manager-en-club-de-padel"
+"url": "https://stage.ma/offres-stage/9370-stage-community-manager-en-club-de-padel"
 },
 {
 "type": "stage",
@@ -1851,7 +212,7 @@
 "pay": "1000 درهم / شهر",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9369-stage-comptabilite-en-cabinet-ia-et-saisie-comptable"
+"url": "https://stage.ma/offres-stage/9369-stage-comptabilite-en-cabinet-ia-et-saisie-comptable"
 },
 {
 "type": "stage",
@@ -1867,7 +228,7 @@
 "pay": "2000 درهم / شهر",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9368-stage-pre-embauche-architecture-dinterieur-et-design"
+"url": "https://stage.ma/offres-stage/9368-stage-pre-embauche-architecture-dinterieur-et-design"
 },
 {
 "type": "stage",
@@ -1883,7 +244,7 @@
 "pay": "1000 درهم / شهر",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9367-stage-assistante-de-gestion-et-administration"
+"url": "https://stage.ma/offres-stage/9367-stage-assistante-de-gestion-et-administration"
 },
 {
 "type": "stage",
@@ -1899,7 +260,7 @@
 "pay": "1000 درهم / شهر",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9366-stage-pre-embauche-en-architecture-et-genie-civil"
+"url": "https://stage.ma/offres-stage/9366-stage-pre-embauche-en-architecture-et-genie-civil"
 },
 {
 "type": "stage",
@@ -1915,7 +276,7 @@
 "pay": "1000 درهم / شهر",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9365-stage-pfe-communication-et-medias-digitaux"
+"url": "https://stage.ma/offres-stage/9365-stage-pfe-communication-et-medias-digitaux"
 },
 {
 "type": "stage",
@@ -1931,7 +292,7 @@
 "pay": "",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9363-stage-data-analyst-consolidation-et-analyse-de-donnees"
+"url": "https://stage.ma/offres-stage/9363-stage-data-analyst-consolidation-et-analyse-de-donnees"
 },
 {
 "type": "stage",
@@ -1947,7 +308,7 @@
 "pay": "1000 درهم / شهر",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9362-stage-pre-embauche-commerciale-immobilier"
+"url": "https://stage.ma/offres-stage/9362-stage-pre-embauche-commerciale-immobilier"
 },
 {
 "type": "stage",
@@ -1963,7 +324,7 @@
 "pay": "",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9361-stage-pre-embauche-commerciale-omra-et-voyages"
+"url": "https://stage.ma/offres-stage/9361-stage-pre-embauche-commerciale-omra-et-voyages"
 },
 {
 "type": "stage",
@@ -1979,7 +340,7 @@
 "pay": "",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9344-stage-reseaux-et-systemes-informatiques"
+"url": "https://stage.ma/offres-stage/9344-stage-reseaux-et-systemes-informatiques"
 },
 {
 "type": "stage",
@@ -1995,7 +356,7 @@
 "pay": "",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9335-stage-marketing-digital-et-reseaux-sociaux-en-agence"
+"url": "https://stage.ma/offres-stage/9335-stage-marketing-digital-et-reseaux-sociaux-en-agence"
 },
 {
 "type": "stage",
@@ -2011,7 +372,7 @@
 "pay": "1000 درهم / شهر",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9334-stage-pfe-design-graphique-en-agence-de-communication"
+"url": "https://stage.ma/offres-stage/9334-stage-pfe-design-graphique-en-agence-de-communication"
 },
 {
 "type": "stage",
@@ -2027,7 +388,7 @@
 "pay": "1000 درهم / شهر",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9333-stage-pfe-audiovisuel-et-creation-de-contenu-video"
+"url": "https://stage.ma/offres-stage/9333-stage-pfe-audiovisuel-et-creation-de-contenu-video"
 },
 {
 "type": "stage",
@@ -2043,7 +404,7 @@
 "pay": "",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9332-stage-pfe-community-manager-et-redaction-web-mode"
+"url": "https://stage.ma/offres-stage/9332-stage-pfe-community-manager-et-redaction-web-mode"
 },
 {
 "type": "stage",
@@ -2057,7 +418,7 @@
 "pay": "",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9331-stage-pfe-chargee-de-partenariats-et-sponsoring-hf"
+"url": "https://stage.ma/offres-stage/9331-stage-pfe-chargee-de-partenariats-et-sponsoring-hf"
 },
 {
 "type": "stage",
@@ -2073,7 +434,7 @@
 "pay": "",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9330-stage-marketing-digital-et-seo-en-immobilier-de-luxe"
+"url": "https://stage.ma/offres-stage/9330-stage-marketing-digital-et-seo-en-immobilier-de-luxe"
 },
 {
 "type": "stage",
@@ -2089,7 +450,7 @@
 "pay": "1000 درهم / شهر",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9328-stage-pre-embauche-technicienne-topographe"
+"url": "https://stage.ma/offres-stage/9328-stage-pre-embauche-technicienne-topographe"
 },
 {
 "type": "stage",
@@ -2105,7 +466,7 @@
 "pay": "1000 درهم / شهر",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9327-stage-assistante-administratifve-et-marketing-immobilier"
+"url": "https://stage.ma/offres-stage/9327-stage-assistante-administratifve-et-marketing-immobilier"
 },
 {
 "type": "stage",
@@ -2121,7 +482,7 @@
 "pay": "1000 درهم / شهر",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9325-stage-developpement-web-creation-de-site-wordpress"
+"url": "https://stage.ma/offres-stage/9325-stage-developpement-web-creation-de-site-wordpress"
 },
 {
 "type": "stage",
@@ -2137,7 +498,7 @@
 "pay": "",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9323-stage-content-creator-et-graphiste-photoshop-hf"
+"url": "https://stage.ma/offres-stage/9323-stage-content-creator-et-graphiste-photoshop-hf"
 },
 {
 "type": "stage",
@@ -2153,7 +514,7 @@
 "pay": "1000 درهم / شهر",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9322-stage-pre-embauche-assistante-administratifve-et-comptable"
+"url": "https://stage.ma/offres-stage/9322-stage-pre-embauche-assistante-administratifve-et-comptable"
 },
 {
 "type": "stage",
@@ -2169,7 +530,7 @@
 "pay": "1000 درهم / شهر",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9321-stage-en-finance-et-assurance-hf"
+"url": "https://stage.ma/offres-stage/9321-stage-en-finance-et-assurance-hf"
 },
 {
 "type": "stage",
@@ -2185,7 +546,7 @@
 "pay": "",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9320-stage-marketing-digital-meta-ads-et-tiktok-ads"
+"url": "https://stage.ma/offres-stage/9320-stage-marketing-digital-meta-ads-et-tiktok-ads"
 },
 {
 "type": "stage",
@@ -2201,7 +562,7 @@
 "pay": "",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9319-stage-pre-embauche-aide-comptable-en-fiduciaire"
+"url": "https://stage.ma/offres-stage/9319-stage-pre-embauche-aide-comptable-en-fiduciaire"
 },
 {
 "type": "stage",
@@ -2217,7 +578,7 @@
 "pay": "1000 درهم / شهر",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9318-stage-pre-embauche-createurtrice-de-contenu-et-ads"
+"url": "https://stage.ma/offres-stage/9318-stage-pre-embauche-createurtrice-de-contenu-et-ads"
 },
 {
 "type": "stage",
@@ -2233,7 +594,7 @@
 "pay": "",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9317-stage-marketing-digital-et-communication-hf"
+"url": "https://stage.ma/offres-stage/9317-stage-marketing-digital-et-communication-hf"
 },
 {
 "type": "stage",
@@ -2249,7 +610,7 @@
 "pay": "",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9316-stage-aide-comptable-et-assistante-administratifve"
+"url": "https://stage.ma/offres-stage/9316-stage-aide-comptable-et-assistante-administratifve"
 },
 {
 "type": "stage",
@@ -2265,7 +626,7 @@
 "pay": "",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9315-stage-pre-embauche-assistante-commerciale-e-commerce"
+"url": "https://stage.ma/offres-stage/9315-stage-pre-embauche-assistante-commerciale-e-commerce"
 },
 {
 "type": "stage",
@@ -2281,7 +642,7 @@
 "pay": "",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9314-stage-commercial-en-cabinet-de-conseil-hf"
+"url": "https://stage.ma/offres-stage/9314-stage-commercial-en-cabinet-de-conseil-hf"
 },
 {
 "type": "stage",
@@ -2297,7 +658,7 @@
 "pay": "1000 درهم / شهر",
 "published": "2026-11-18",
 "source": "stage.ma",
-"url": "https://www.stage.ma/offres-stage/9313-stage-pre-embauche-en-vente-en-ligne-et-e-commerce"
+"url": "https://stage.ma/offres-stage/9313-stage-pre-embauche-en-vente-en-ligne-et-e-commerce"
 },
 {
 "type": "concours",
