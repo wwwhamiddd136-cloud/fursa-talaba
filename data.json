@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T20:13:53Z",
+"updated": "2026-11-25T08:38:59Z",
 "sources": {
 "emploi-public.ma": {
 "ok": true,
@@ -11,14 +11,90 @@
 },
 "alwadifa-maroc.com": {
 "ok": true,
-"count": 48
+"count": 43
 },
 "dreamjob.ma": {
-"ok": true,
-"count": 112
+"ok": false,
+"count": 112,
+"error": "source returned 0 items (blocked or empty)"
 }
 },
 "items": [
+{
+"type": "concours",
+"title": "المجلس الأعلى للسلطة القضائية: اللوائح النهائية لمباراة توظيف 15 أمينا قضائيا مساعدا من الدرجة الرابعة في عدة تخصصات، ليوم 27 نونبر 2026",
+"title_ar": "",
+"org": "",
+"cities": [],
+"posts": null,
+"deadline": "2026-11-27",
+"exam": null,
+"published": "2026-11-25",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23890",
+"lang": "ar"
+},
+{
+"type": "concours",
+"title": "قطاع الفلاحة: مباراة توظيف 38 متصرفا من الدرجة الثانية في عدة تخصصات. الترشيح من 30 نونبر إلى 15 دجنبر 2026",
+"title_ar": "",
+"org": "",
+"cities": [
+"الرباط",
+"مراكش",
+"مكناس",
+"أكادير"
+],
+"posts": null,
+"deadline": "2026-12-15",
+"exam": null,
+"published": "2026-11-25",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23889",
+"lang": "ar"
+},
+{
+"type": "concours",
+"title": "وزارة الصحة والحماية الإجتماعية: مباراة توظيف 120 تقنيا من الدرجة الرابعة في عدة تخصصات. آخر أجل للترشيح هو 28 يناير 2027",
+"title_ar": "",
+"org": "",
+"cities": [],
+"posts": null,
+"deadline": "2027-01-28",
+"exam": null,
+"published": "2026-11-25",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23888",
+"lang": "ar"
+},
+{
+"type": "concours",
+"title": "وزارة الصحة والحماية الاجتماعية: مباراة توظيف 70 متصرفا من الدرجة الثالثة في عدة تخصصات. آخر أجل للترشيح هو 13 يناير 2027",
+"title_ar": "",
+"org": "",
+"cities": [],
+"posts": null,
+"deadline": "2027-01-13",
+"exam": null,
+"published": "2026-11-24",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23887",
+"lang": "ar"
+},
+{
+"type": "concours",
+"title": "وزارة الصحة والحماية الاجتماعية: مباراة توظيف 100 متصرفا من الدرجة الثانية في عدة تخصصات. آخر أجل للترشيح هو 31 دجنبر 2026",
+"title_ar": "",
+"org": "",
+"cities": [],
+"posts": null,
+"deadline": "2026-12-31",
+"exam": null,
+"published": "2026-11-24",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23886",
+"lang": "ar"
+},
 {
 "type": "concours",
 "title": "غرفة الصناعة التقليدية لجهة فاس - مكناس: مباراة توظيف متصرف من الدرجة الثانية وتقني من الدرجة الثالثة، آخر أجل هو 4 دجنبر 2026",
@@ -2659,114 +2735,6 @@
 },
 {
 "type": "concours",
-"title": "وزارة الشؤون الخارجية والتعاون الإفريقي: مرشحي شفوي مباريات توظيف 89 منصب من مهندسي دولة وتقنيين ومساعدين تقنيين",
-"title_ar": "",
-"org": "",
-"cities": [],
-"posts": null,
-"deadline": null,
-"exam": null,
-"published": "2026-11-10",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23827",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "جامعة شعيب الدكالي - الجديدة: مباراة توظيف أطر إدارية وتقنية - 05 مناصب. الترشيح قبل 26 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"الجديدة"
-],
-"posts": null,
-"deadline": "2026-11-26",
-"exam": null,
-"published": "2026-11-10",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23826",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "جامعة ابن زهر: مباراة توظيف 16 أستاذا محاضرا. آخر أجل للترشيح قبل 26 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"أكادير"
-],
-"posts": null,
-"deadline": "2026-11-26",
-"exam": null,
-"published": "2026-11-10",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23823",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "جامعة عبد المالك السعدي: مباراة توظيف أطر إدارية وتقنية - 15 منصبا. الترشيح قبل 26 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [],
-"posts": null,
-"deadline": "2026-11-26",
-"exam": null,
-"published": "2026-11-10",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23822",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "جامعة القاضي عياض - مراكش: مباراة توظيف 14 أستاذا محاضرا. الترشيح قبل 26 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"مراكش"
-],
-"posts": null,
-"deadline": "2026-11-26",
-"exam": null,
-"published": "2026-11-10",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23821",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "مباريات ولوج سلك تكوين أطر المختصين التربويين والمختصين الاجتماعيين ومختصي الاقتصاد والإدارة بالمراكز الجهوية لمهن التربية والتكوين - 1759 منصب",
-"title_ar": "",
-"org": "",
-"cities": [],
-"posts": null,
-"deadline": null,
-"exam": null,
-"published": "2026-11-09",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23816",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "المجموعة الصحية الترابية طنجة - تطوان - الحسيمة: مباراة توظيف 328 منصبا في عدة درجات وتخصصات. آخر أجل للترشيح هو 25 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"طنجة",
-"تطوان",
-"الحسيمة"
-],
-"posts": null,
-"deadline": "2026-11-25",
-"exam": null,
-"published": "2026-11-09",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23815",
-"lang": "ar"
-},
-{
-"type": "concours",
 "title": "مؤسسة دار الصانع: مباراة توظيف 1 متصرف من الدرجة الثانية في عدة تخصصات. آخر أجل للترشيح هو 26 نونبر 2026",
 "title_ar": "",
 "org": "",
@@ -2783,20 +2751,6 @@
 },
 {
 "type": "concours",
-"title": "وزارة الاقتصاد والمالية والنجاعة العمومية: نتائج كتابي مباراة توظيف 103 مهندسا للدولة للمالية و2 مهندسين معماريين للمالية من الدرجة الأولى",
-"title_ar": "",
-"org": "",
-"cities": [],
-"posts": null,
-"deadline": null,
-"exam": null,
-"published": "2026-11-05",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23804",
-"lang": "ar"
-},
-{
-"type": "concours",
 "title": "قطاع الفلاحة: إلغاء مباراة توظيف 38 متصرفا من الدرجة الثانية في عدة تخصصات ليوم 6 دجنبر 2026",
 "title_ar": "",
 "org": "",
@@ -2807,34 +2761,6 @@
 "published": "2026-11-03",
 "source": "alwadifa-maroc.com",
 "url": "https://alwadifa-maroc.com/offre/show/id/23787",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "غرفة التجارة والصناعة والخدمات لجهة درعة تافيلالت: مباراة توظيف 1 متصرف من الدرجة الثالثة. آخر أجل للترشيح هو 25 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [],
-"posts": null,
-"deadline": "2026-11-25",
-"exam": null,
-"published": "2026-11-02",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23784",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "غرفة التجارة والصناعة والخدمات لجهة درعة تافيلالت: مباراة توظيف 2 متصرفين من الدرجة الثانية. آخر أجل للترشيح هو 25 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [],
-"posts": null,
-"deadline": "2026-11-25",
-"exam": null,
-"published": "2026-11-02",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23783",
 "lang": "ar"
 },
 {
@@ -2961,15 +2887,15 @@
 },
 {
 "type": "concours",
-"title": "Responsable d’Exploitation de la gare Routière 1 jours restants Société de développement local Rabat Voyageur Annonce Dépôt en ligne 1 poste Limite de dépôt : 24 Novembre 2026 َAdministrateur 1 jours restants Agence de Développement du Haut Atlas Annonce Dépôt en ligne 1 poste Limite de dépôt : 24 Novembre 2026 أستاذ محاضر بكلية العلوم الإنسانية و الاجتماعية بالسمارة تخصص علم الاجتماع 1 jours restants Université Ibn Zohr - Agadir Annonce 1 poste Limite de dépôt : 25 Novembre 2026 Date du concours : 30 Novembre 2026 Maître de conférences à la FEG Taroudant spécialité Economie et gestion 1 jours restants Université Ibn Zohr - Agadir Annonce 1 poste Limite de dépôt : 25 Novembre 2026 Date du concours : 30 Novembre 2026 Créer une alerte",
-"title_ar": "",
-"org": "Société de développement local Rabat Voyageur",
+"title": "administrateur 2eme grade 1 jours restants Univesité Chouaïb Doukkali - El Jadida Annonce 1 poste Limite de dépôt : 26 Novembre 2026 Technicien de 3ème grade 1 jours restants Univesité Chouaïb Doukkali - El Jadida Annonce 1 poste Limite de dépôt : 26 Novembre 2026 Technicien de 3ème grade 1 jours restants Univesité Chouaïb Doukkali - El Jadida Annonce 1 poste Limite de dépôt : 26 Novembre 2026 Cadre « QHSE » (Qualité, Hygiène, Sécurité, Environnement) 2 jours restants Société Rabat Région Emergence Annonce 1 poste Limite de dépôt : 26 Novembre 2026 - 16:00 Créer une alerte",
+"title_ar": "متصرف من الدرجة الثالثة",
+"org": "Univesité Chouaïb Doukkali - El Jadida",
 "cities": [],
 "posts": 1,
-"deadline": "2026-11-25",
-"exam": "2026-11-30",
+"deadline": "2026-11-26",
+"exam": null,
 "source": "emploi-public.ma",
-"url": "https://www.emploi-public.ma/fr/concours/details/90f5f2af-bcbb-4d5e-b770-cc2c89290993"
+"url": "https://www.emploi-public.ma/fr/concours/details/260ea819-855a-4c97-a553-ce9d06b464a5"
 },
 {
 "type": "concours",
@@ -3042,18 +2968,6 @@
 "exam": "2026-12-06",
 "source": "emploi-public.ma",
 "url": "https://www.emploi-public.ma/fr/concours/details/c1856307-e18c-4053-8079-1efd4ebd63dd"
-},
-{
-"type": "concours",
-"title": "Technicien de 3ème grade - Echelle 9",
-"title_ar": "تقني من الدرجة الثالثة - السلم 9",
-"org": "Ministère de l’Economie, des Finances et de la Performance publique",
-"cities": [],
-"posts": 443,
-"deadline": "2026-11-24",
-"exam": "2026-12-27",
-"source": "emploi-public.ma",
-"url": "https://www.emploi-public.ma/fr/concours/details/03905d86-bfa2-4e5f-9173-f46289658267"
 },
 {
 "type": "concours",
