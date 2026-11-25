@@ -62,7 +62,7 @@ h2{font-size:clamp(1.5rem,4vw,2.2rem);margin:0 0 6px}
 .tabs button:hover{transform:translateY(-2px)}
 .tabs button[aria-selected=true]{background:linear-gradient(135deg,var(--blue),var(--pink));color:#fff;border-color:transparent;box-shadow:0 0 28px -4px var(--pink)}
 .filters{display:grid;gap:8px;grid-template-columns:1fr}
-@media(min-width:720px){.filters{grid-template-columns:2fr 1fr 1fr 1fr}}
+@media(min-width:720px){.filters{grid-template-columns:2fr 1fr 1fr 1fr 1fr}}
 input,select{padding:13px 15px;border:1px solid var(--line);border-radius:16px;background:var(--card);color:var(--ink);font:inherit;width:100%;backdrop-filter:blur(10px);transition:border-color .2s,box-shadow .2s}
 input:focus,select:focus{border-color:var(--accent);box-shadow:0 0 0 4px var(--shadow);outline:0}
 option{background:#16113a;color:#fff}
@@ -91,9 +91,23 @@ footer{text-align:center;color:var(--muted);font-size:.84rem;padding:30px 16px 5
 .save:hover{transform:scale(1.1);border-color:var(--pink)}.save[aria-pressed=true]{background:var(--pink);color:#08051b;border-color:var(--pink)}
 .tabs{flex-wrap:wrap}.tabs button{min-width:calc(33% - 8px);font-size:.95rem}@media(min-width:720px){.tabs button{min-width:0}}
 .intro{color:var(--muted);max-width:720px;margin:0 0 18px;font-size:.95rem}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 0}
+.chips button{padding:8px 16px;border-radius:99px;border:1px solid var(--line);background:var(--card);color:var(--ink);font:inherit;font-size:.88rem;cursor:pointer;backdrop-filter:blur(10px);transition:.2s}
+.chips button:hover{border-color:var(--accent)}
+.chips button[aria-pressed=true]{background:linear-gradient(135deg,var(--accent),#7df3ff);color:#08051b;border-color:transparent;font-weight:700}
+.tag.new{border-color:var(--accent);color:var(--accent)}
+#upd{color:var(--muted);font-size:.85rem;margin:-4px 4px 12px}
+section.blk{max-width:980px;margin:auto;padding:26px 14px}
+.ggrid{display:grid;gap:14px;grid-template-columns:1fr}
+@media(min-width:780px){.ggrid{grid-template-columns:1fr 1fr}}
+.gcard{display:block;background:var(--card);border:1px solid var(--line);border-radius:22px;padding:18px;text-decoration:none;color:inherit;backdrop-filter:blur(12px);transition:transform .25s,border-color .25s,box-shadow .3s}
+.gcard:hover{border-color:var(--accent);transform:translateY(-3px);box-shadow:0 18px 50px -18px var(--shadow)}
+.gcard .ic{width:40px;height:40px;border-radius:13px;display:grid;place-items:center;background:color-mix(in srgb,var(--accent) 20%,transparent);margin-bottom:10px;font-size:1.2rem}
+.gcard h3{margin:0 0 4px;font-size:1.05rem}
+.gcard p{margin:0;color:var(--muted);font-size:.9rem}
 </style></head><body>
 <a class="skip" href="#find">تخطى للقائمة</a><div id="bar"></div><div class="sky" aria-hidden="true"><i></i><i></i></div>
-<nav aria-label="التنقل الرئيسي"><a class="brand" href="#"><span aria-hidden="true">🎓</span> فرص الطلبة</a><div class="links"><a class="l" href="#find">الفرص</a><a class="l" href="#about">عن الموقع</a><button id="theme" aria-label="تبديل الوضع الفاتح والغامق">🌓</button></div></nav>
+<nav aria-label="التنقل الرئيسي"><a class="brand" href="#"><span aria-hidden="true">🎓</span> فرص الطلبة</a><div class="links"><a class="l" href="#find">الفرص</a><a class="l" href="guides/">الأدلة</a><a class="l" href="#about">عن الموقع</a><button id="theme" aria-label="تبديل الوضع الفاتح والغامق">🌓</button></div></nav>
 <header class="hero"><div class="orbit" aria-hidden="true"><b>💼</b><b>🏛️</b><b>⚖️</b><b>📄</b></div><div class="orbit o2" aria-hidden="true"><b>🎓</b><b>🚀</b><b>🔎</b><b>⭐</b></div>
 <div class="hero-in" id="heroin"><span class="pill">يتجدد يوميًا من مصادر عامة</span>
 <h1 id="h1"><span class="gw">فرصتك القادمة</span> <br>في مكان واحد</h1>
@@ -102,8 +116,20 @@ footer{text-align:center;color:var(--muted);font-size:.84rem;padding:30px 16px 5
 <div class="stats"><div class="stat"><b data-n="0" id="n1">0</b><span>مباراة عمومية</span></div><div class="stat"><b id="n2">0</b><span>تدريب</span></div><div class="stat"><b id="n4">0</b><span>وظيفة</span></div><div class="stat"><b id="n3">0</b><span>مدينة</span></div></div></div></header>
 <main id="find"><div class="rv"><h2>كل الفرص <span class="grad">في مكان واحد</span></h2><p class="lead">اختر النوع، ابحث بكلمة، أو صفِّ حسب المدينة.</p></div>
 <p class="intro">يجمع هذا الموقع مباريات التوظيف العمومي وعروض التداريب والوظائف المفتوحة للطلبة في المغرب، من مصادر عامة، ويُحدَّث يوميًا. اضغط على القلب لحفظ إعلان في هذا المتصفح.</p><noscript><p class="intro">يحتاج عرض الإعلانات إلى تفعيل جافاسكريبت.</p></noscript><div class="tabs rv" role="tablist"><button role="tab" aria-selected="true" data-t="all">✨ الكل</button><button role="tab" aria-selected="false" data-t="stage">💼 تداريب</button><button role="tab" aria-selected="false" data-t="concours">🏛️ مباريات</button><button role="tab" aria-selected="false" data-t="emploi">📄 وظائف</button><button role="tab" aria-selected="false" data-t="saved" id="tsaved">❤ المحفوظة (0)</button></div>
-<div class="filters rv"><input id="q" type="search" placeholder="ابحث: قانون، محاسبة، الرباط…" aria-label="بحث"><select id="city" aria-label="المدينة"><option value="">كل المدن</option></select><select id="mode" aria-label="نمط العمل"><option value="">كل أنماط العمل</option></select><select id="sort" aria-label="الترتيب"><option value="new">الأحدث</option><option value="dl">أقرب أجل</option></select></div>
-<div id="count" aria-live="polite"></div><div id="list"><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div></div><button id="more" hidden>عرض المزيد</button></main>
+<div class="filters rv"><input id="q" type="search" placeholder="ابحث: قانون، محاسبة، الرباط…" aria-label="بحث"><select id="city" aria-label="المدينة"><option value="">كل المدن</option></select><select id="mode" aria-label="نمط العمل"><option value="">كل أنماط العمل</option></select><select id="level" aria-label="المستوى الدراسي"><option value="">كل المستويات</option><option value="bac">باكالوريا</option><option value="bac2">باك + 2</option><option value="lic">إجازة</option><option value="mast">ماستر فما فوق</option></select><select id="sort" aria-label="الترتيب"><option value="new">الأحدث</option><option value="dl">أقرب أجل</option></select></div>
+<div class="chips rv"><button id="soon" aria-pressed="false">⏳ تُقفل قريبًا</button><button id="chipnew" aria-pressed="false">🆕 جديد اليوم</button></div>
+<div id="count" aria-live="polite"></div><div id="upd"></div><div id="list"><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div></div><button id="more" hidden>عرض المزيد</button></main>
+<section class="blk rv" id="guides"><h2>أدلة المباريات <span class="grad">بالفصحى</span></h2><p class="lead">شروط الترشيح والوثائق وطريقة التقديم لأشهر المباريات، مع روابط المصادر الرسمية. تحقّق دائمًا من الإعلان الرسمي.</p><div class="ggrid">
+<a class="gcard" href="guides/mohamat.html"><div class="ic" aria-hidden="true">⚖️</div><h3>مباراة المحاماة</h3><p>القانون الجديد 66.23، شروط الترشيح، المعهد والتمرين.</p></a>
+<a class="gcard" href="guides/qodah.html"><div class="ic" aria-hidden="true">🏛️</div><h3>الملحقون القضائيون</h3><p>شروط المعهد العالي للقضاء، التكوين والتعيين.</p></a>
+<a class="gcard" href="guides/amn.html"><div class="ic" aria-hidden="true">🚓</div><h3>الأمن الوطني</h3><p>الرتب، الشروط، والتسجيل عبر concours.dgsn.gov.ma.</p></a>
+<a class="gcard" href="guides/taalim.html"><div class="ic" aria-hidden="true">🏫</div><h3>أطر التدريس (المراكز الجهوية)</h3><p>الشروط، الوثائق المطلوبة، ومراحل المباراة.</p></a></div>
+<p class="lead" style="margin-top:14px"><a class="l" href="guides/">كل الأدلة ←</a></p></section>
+<section class="blk rv" id="sites"><h2>مواقع أخرى <span class="grad">مفيدة</span></h2><p class="lead">منصات معروفة لا نجمع منها تلقائيًا احترامًا لشروط استعمالها. تصفّحها مباشرة:</p><div class="ggrid">
+<a class="gcard" href="https://www.anapec.org" target="_blank" rel="noopener"><div class="ic" aria-hidden="true">🇲🇦</div><h3>أنابيك ANAPEC</h3><p>الوكالة الوطنية لإنعاش التشغيل والكفاءات: عروض الشغل والتداريب وبرامج مثل إدماج وتأهيل.</p></a>
+<a class="gcard" href="https://www.rekrute.com" target="_blank" rel="noopener"><div class="ic" aria-hidden="true">💼</div><h3>ReKrute</h3><p>عروض وظائف القطاع الخاص بالمغرب مع فلاتر حسب القطاع والمدينة.</p></a>
+<a class="gcard" href="https://www.emploi.ma" target="_blank" rel="noopener"><div class="ic" aria-hidden="true">📄</div><h3>Emploi.ma</h3><p>منصة وظائف عامة بالمغرب: إدارة، تقنية، مبيعات وغيرها.</p></a>
+<a class="gcard" href="https://www.marocannonces.com" target="_blank" rel="noopener"><div class="ic" aria-hidden="true">📢</div><h3>MarocAnnonces</h3><p>إعلانات مبوبة تشمل عروض الشغل والتدريب في مختلف المدن.</p></a></div></section>
 <section id="about"><footer class="rv" id="foot"></footer></section>
 <button id="top" aria-label="للأعلى">↑</button>
 <script>
@@ -128,9 +154,11 @@ function count(el,to){if(RM){el.textContent=to;return}const t0=performance.now()
 // spotlight on cards
 $("list").addEventListener("pointermove",e=>{const c=e.target.closest(".card");if(!c)return;const r=c.getBoundingClientRect();c.style.setProperty("--mx",(e.clientX-r.left)+"px");c.style.setProperty("--my",(e.clientY-r.top)+"px")});
 // render
-function filtered(){const q=$("q").value.toLowerCase().trim(),c=$("city").value,m=$("mode").value;
- let r=D.filter(x=>(tab=="all"||(tab=="saved"?SV.has(x.url):x.type==tab))&&(!c||(x.cities||[]).includes(c))&&(!m||(m=="pt"?x.pt:x.mode==m))&&(!q||[x.title,x.title_ar,x.org,(x.cities||[]).join(" "),x.kind,x.source].join(" ").toLowerCase().includes(q))&&(!x.deadline||x.deadline>=today));
- if($("sort").value=="dl")r.sort((a,b)=>(a.deadline||"9")<(b.deadline||"9")?-1:1);else r.sort((a,b)=>(b.published||"")<(a.published||"")?-1:1);return r}
+let SOON=false,NW=false;
+const dleft=x=>x.deadline?Math.round((new Date(x.deadline+"T12:00:00")-new Date(today+"T12:00:00"))/864e5):null;
+function filtered(){const q=$("q").value.toLowerCase().trim(),c=$("city").value,m=$("mode").value,lv=$("level").value;
+ let r=D.filter(x=>(tab=="all"||(tab=="saved"?SV.has(x.url):x.type==tab))&&(!c||(x.cities||[]).includes(c))&&(!m||(m=="pt"?x.pt:x.mode==m))&&(!lv||x.level==lv)&&(!q||[x.title,x.title_ar,x.org,(x.cities||[]).join(" "),x.kind,x.source].join(" ").toLowerCase().includes(q))&&(!x.deadline||x.deadline>=today)&&(!SOON||(x.deadline&&dleft(x)<=7))&&(!NW||(x.published&&x.published>=today)));
+ if(SOON||$("sort").value=="dl")r.sort((a,b)=>(a.deadline||"9")<(b.deadline||"9")?-1:1);else r.sort((a,b)=>(b.published||"")<(a.published||"")?-1:1);return r}
 const SV=new Set((()=>{try{return JSON.parse(localStorage.getItem("saved")||"[]")}catch(e){return[]}})());
 const PT=/temps partiel|mi-temps|part[\s-]?time|دوام جزئي|نصف دوام/i;
 function svc(){const n=D.filter(x=>SV.has(x.url)).length;$("tsaved").textContent="❤ المحفوظة ("+n+")"}
@@ -140,21 +168,31 @@ function render(reset){if(reset)shown=24;const all=filtered(),r=all.slice(0,show
   (x.cities||[]).slice(0,3).forEach(v=>t.push('<span class="tag">📍 '+esc(v)+'</span>'));
   [x.mode,x.kind,x.duration,x.pay].filter(Boolean).forEach(v=>t.push('<span class="tag">'+esc(v)+'</span>'));
   if(x.posts)t.push('<span class="tag">'+x.posts+' منصب</span>');
-  if(x.deadline)t.push('<span class="tag warn">⏰ آخر أجل: '+fmt(x.deadline)+'</span>');
+  if(x.published&&x.published>=today)t.push('<span class="tag new">🆕 جديد اليوم</span>');
+  if(x.deadline){const dl=dleft(x);
+   if(dl<=0)t.push('<span class="tag warn">⏰ يُقفل اليوم</span>');
+   else if(dl==1)t.push('<span class="tag warn">⏰ يُقفل غدًا</span>');
+   else if(dl==2)t.push('<span class="tag warn">⏳ يتبقى يومان</span>');
+   else if(dl<=7)t.push('<span class="tag warn">⏳ يتبقى '+dl+' أيام</span>');
+   else t.push('<span class="tag">⏰ آخر أجل: '+fmt(x.deadline)+'</span>')}
   if(x.exam)t.push('<span class="tag">تاريخ الاختبار: '+fmt(x.exam)+'</span>');
   const main=x.title_ar||x.title,sub=x.title_ar&&x.title_ar!=x.title?x.title:"";
   return '<div class="cw rv" style="transition-delay:'+(i%6)*60+'ms"><a class="card '+x.type+'" href="'+esc(x.url)+'" target="_blank" rel="noopener nofollow"><div class="ic" aria-hidden="true">'+ICON[x.type]+'</div><h3>'+esc(main)+'</h3>'+(sub?'<div class="org" dir="auto">'+esc(sub)+'</div>':'')+(x.org?'<div class="org">'+esc(x.org)+'</div>':'')+'<div class="tags">'+t.join("")+'</div><div class="go"><span>المصدر: '+esc(x.source)+'</span><em>قدّم عند المصدر ←</em></div></a><button class="save" data-u="'+esc(x.url)+'" aria-pressed="'+SV.has(x.url)+'" aria-label="'+(SV.has(x.url)?'إزالة من المحفوظات':'حفظ الإعلان')+'">'+(SV.has(x.url)?'❤':'♡')+'</button></div>'}).join("")||'<div class="empty">'+(tab=="saved"?"لم تحفظ أي إعلان بعد. اضغط على القلب في بطاقة الإعلان.":"لا توجد نتائج لهذا الفلتر. جرّب كلمة أخرى.")+'</div>';
  $("more").hidden=all.length<=shown;obs()}
 $("list").addEventListener("click",e=>{const b=e.target.closest(".save");if(!b)return;const u=b.dataset.u;SV.has(u)?SV.delete(u):SV.add(u);localStorage.setItem("saved",JSON.stringify([...SV]));svc();if(tab=="saved")render();else{const on=SV.has(u);b.setAttribute("aria-pressed",on);b.textContent=on?"❤":"♡";b.setAttribute("aria-label",on?"إزالة من المحفوظات":"حفظ الإعلان")}});
 $("more").onclick=()=>{shown+=24;render()};
-fetch("data.json").then(r=>r.json()).then(j=>{D=j.items;D.forEach(x=>x.pt=PT.test(x.title||""));svc();
+const LV=[[/ماستر|mast[èe]re|دكتوراه|doctorat/i,"mast"],[/الدرجة الأولى|1(?:er|ère) grade/i,"lic"],[/باك\s*\+\s*2|bac\s*\+\s*2|تقني متخصص|تقني عالي|\bbts\b|\bdut\b|deug|الدراسات الجامعية العامة|السنة الثانية بعد الباكالوريا|الدرجة الثانية|2ème grade/i,"bac2"],[/إجازة|licence/i,"lic"],[/باكالوريا|baccalaur|الدرجة الثالثة|3ème grade/i,"bac"]];
+fetch("data.json").then(r=>r.json()).then(j=>{D=j.items;D.forEach(x=>{x.pt=PT.test(x.title||"");const tt=[x.title,x.title_ar,x.org].join(" ");const m=LV.find(e=>e[0].test(tt));x.level=m?m[1]:""});svc();
+ const ud=(j.updated||"").slice(0,10);$("upd").textContent="🔄 آخر تحديث: "+(ud==today?"اليوم":fmt(ud));
  const cs={};D.forEach(x=>(x.cities||[]).forEach(c=>cs[c]=(cs[c]||0)+1));
  Object.keys(cs).sort((a,b)=>cs[b]-cs[a]||a.localeCompare(b,"ar")).forEach(v=>$("city").add(new Option(v+" ("+cs[v]+")",v)));
  [...new Set(D.map(x=>x.mode).filter(Boolean))].sort().forEach(v=>$("mode").add(new Option(v,v)));if(D.some(x=>x.pt))$("mode").add(new Option("دوام جزئي","pt"));
  const n=t=>D.filter(x=>x.type==t).length;count($("n1"),n("concours"));count($("n2"),n("stage"));count($("n4"),n("emploi"));count($("n3"),Object.keys(cs).length);
  const src=[...new Set(D.map(x=>x.source))].join("، ");
  $("foot").innerHTML="آخر تحديث: "+fmt(j.updated)+"<br>يعرض الموقع العناوين والروابط فقط. الإعلانات ملك لمواقعها الأصلية ("+esc(src)+") والتقديم يتم عندها. تحقّق من الإعلان الأصلي قبل التقديم.";render()}).catch(()=>{$("list").innerHTML='<div class="empty">حدث خطأ أثناء تحميل البيانات. أعد المحاولة.</div>'});
-["q","city","mode","sort"].forEach(i=>$(i).addEventListener("input",()=>render(1)));
+["q","city","mode","level","sort"].forEach(i=>$(i).addEventListener("input",()=>render(1)));
+$("soon").onclick=()=>{SOON=!SOON;$("soon").setAttribute("aria-pressed",SOON);render(1)};
+$("chipnew").onclick=()=>{NW=!NW;$("chipnew").setAttribute("aria-pressed",NW);render(1)};
 document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>{document.querySelectorAll(".tabs button").forEach(x=>x.setAttribute("aria-selected",x==b));tab=b.dataset.t;render(1)});
 // magnetic CTA
 if(!RM&&matchMedia("(pointer:fine)").matches){const c=$("cta");c.addEventListener("pointermove",e=>{const r=c.getBoundingClientRect();c.style.transform="translate("+(e.clientX-r.left-r.width/2)*.2+"px,"+(e.clientY-r.top-r.height/2)*.3+"px)"});c.addEventListener("pointerleave",()=>c.style.transform="")}
