@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25T08:38:59Z",
+"updated": "2026-11-26T09:19:06Z",
 "sources": {
 "emploi-public.ma": {
 "ok": true,
@@ -11,15 +11,74 @@
 },
 "alwadifa-maroc.com": {
 "ok": true,
-"count": 43
+"count": 37
 },
 "dreamjob.ma": {
 "ok": false,
 "count": 112,
-"error": "source returned 0 items (blocked or empty)"
+"error": "dreamjob feed error: <HTTPError 403: 'Forbidden'>"
 }
 },
 "items": [
+{
+"type": "concours",
+"title": "المندوبية السامية للتخطيط: مرشحي مباراة توظيف 11 متصرفا من الدرجة الثانية تخصص الاحصاء والاقتصاد التطبيقي ليوم 29 نونبر 2026",
+"title_ar": "",
+"org": "",
+"cities": [],
+"posts": null,
+"deadline": "2026-11-29",
+"exam": null,
+"published": "2026-11-26",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23894",
+"lang": "ar"
+},
+{
+"type": "concours",
+"title": "الشركة الجهوية متعددة الخدمات مراكش - آسفي: مرشحي الاختبارات الشفوية لمباراة توظيف 168 عون إشراف من حاملي باك+3 وباك+2",
+"title_ar": "",
+"org": "",
+"cities": [
+"مراكش",
+"آسفي"
+],
+"posts": null,
+"deadline": null,
+"exam": null,
+"published": "2026-11-25",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23893",
+"lang": "ar"
+},
+{
+"type": "concours",
+"title": "المركز السينمائي المغربي: مباراة توظيف 2 متصرفين من الدرجة الثانية والثالثة و1 تقني من الدرجة الثالثة. الترشيح من 9 إلى 11 دجنبر 2026",
+"title_ar": "",
+"org": "",
+"cities": [],
+"posts": null,
+"deadline": "2026-12-11",
+"exam": null,
+"published": "2026-11-25",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23892",
+"lang": "ar"
+},
+{
+"type": "concours",
+"title": "لوائح المترشحات والمترشحين المقبولين لاجتياز الاختبارات الكتابية لمباريات ولوج سلك تأهيل أطر التدريس بالمراكز الجهوية لمهن التربية والتكوين",
+"title_ar": "",
+"org": "",
+"cities": [],
+"posts": null,
+"deadline": null,
+"exam": null,
+"published": "2026-11-25",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23891",
+"lang": "ar"
+},
 {
 "type": "concours",
 "title": "المجلس الأعلى للسلطة القضائية: اللوائح النهائية لمباراة توظيف 15 أمينا قضائيا مساعدا من الدرجة الرابعة في عدة تخصصات، ليوم 27 نونبر 2026",
@@ -638,20 +697,6 @@
 "lang": "ar"
 },
 {
-"type": "concours",
-"title": "مجموعة التهيئة العمران: الترشيح لتوظيف 6 مناصب في عدة تخصصات. آخر أجل للترشيح هو6، 5، 4، 2 دجنبر و26 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [],
-"posts": null,
-"deadline": "2026-11-26",
-"exam": null,
-"published": "2026-11-23",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23880",
-"lang": "ar"
-},
-{
 "type": "emploi",
 "title": "Managem lance une grande campagne de recrutement de 16 profils dans plusieurs villes",
 "title_ar": "",
@@ -1193,22 +1238,6 @@
 "published": "2026-11-21",
 "source": "alwadifa-maroc.com",
 "url": "https://alwadifa-maroc.com/offre/show/id/23879",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "الوكالة الوطنية للدعم الاجتماعي: مرشحي الاختبار الشفوي لمباراة توظيف 30 مواكب اجتماعي حاصل على دبلوم الإجازة",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"posts": null,
-"deadline": null,
-"exam": null,
-"published": "2026-11-21",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23878",
 "lang": "ar"
 },
 {
@@ -2376,20 +2405,6 @@
 },
 {
 "type": "concours",
-"title": "المندوبية العامة لإدارة السجون وإعادة الإدماج: 3 مباريات لتوظيف 348 منصب في درجات مراقب السجون وقائد السجون مساعد",
-"title_ar": "",
-"org": "",
-"cities": [],
-"posts": null,
-"deadline": null,
-"exam": null,
-"published": "2026-11-18",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23870",
-"lang": "ar"
-},
-{
-"type": "concours",
 "title": "بنك المغرب: مباريات توظيف 5 مناصب في عدة درجات وتخصصات. آخر أجل للترشيح هو 21، 30 نونبر و2 دجنبر 2026",
 "title_ar": "",
 "org": "",
@@ -2448,22 +2463,6 @@
 },
 {
 "type": "concours",
-"title": "كلية العلوم القانونية و السياسية بالجديدة: مباراة توظيف 01 متصرف من الدرجة الثانية و02 تقنيان من الدرجة الثالثة. الترشيح قبل 27 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"الجديدة"
-],
-"posts": null,
-"deadline": "2026-11-27",
-"exam": null,
-"published": "2026-11-16",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23862",
-"lang": "ar"
-},
-{
-"type": "concours",
 "title": "جامعة شعيب الدكالي - الجديدة: مباراة توظيف 01 تقني من الدرجة الثالثة برئاسة الجامعة. الترشيح قبل 28 نونبر 2026",
 "title_ar": "",
 "org": "",
@@ -2508,22 +2507,6 @@
 "published": "2026-11-16",
 "source": "alwadifa-maroc.com",
 "url": "https://alwadifa-maroc.com/offre/show/id/23859",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "جامعة محمد الأول - وجدة: مباراة توظيف 04 أطر إدارية وتقنية. الترشيح قبل 27 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"وجدة"
-],
-"posts": null,
-"deadline": "2026-11-27",
-"exam": null,
-"published": "2026-11-16",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23858",
 "lang": "ar"
 },
 {
@@ -2659,20 +2642,6 @@
 },
 {
 "type": "concours",
-"title": "الوكالة الوطنية للدعم الاجتماعي: مباريات توظيف 13 منصبا من مهندسي دولة وأطر وتقنيين متخصصين. آخر أجل للترشيح هو 26 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [],
-"posts": null,
-"deadline": "2026-11-26",
-"exam": null,
-"published": "2026-11-12",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23839",
-"lang": "ar"
-},
-{
-"type": "concours",
 "title": "البرامج الرسمية وإصدار بطاقات توصيف الاختبارات الكتابية لمباريات ولوج سلك تأهيل أطر التدريس بالمراكز الجهوية لمهن التربية والتكوين",
 "title_ar": "",
 "org": "",
@@ -2683,70 +2652,6 @@
 "published": "2026-11-12",
 "source": "alwadifa-maroc.com",
 "url": "https://alwadifa-maroc.com/offre/show/id/23838",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "المندوبية العامة لإدارة السجون وإعادة الإدماج: مباراة توظيف 28 قائد السجون مساعد من الدرجة الأولى -الطب العام، آخر أجل هو 26 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"مراكش",
-"فاس"
-],
-"posts": null,
-"deadline": "2026-11-26",
-"exam": null,
-"published": "2026-11-12",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23837",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "المندوبية العامة لإدارة السجون وإعادة الإدماج: مباراة لتوظيف 120 مراقب السجون مساعد من الدرجة الثانية -إناث- آخر أجل هو 26 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [],
-"posts": null,
-"deadline": "2026-11-26",
-"exam": null,
-"published": "2026-11-11",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23836",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "المندوبية العامة لإدارة السجون وإعادة الإدماج: مباراة لتوظيف 200 مراقب السجون رئيس من الدرجة الثانية -ذكور- آخر أجل هو 26 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"مراكش",
-"فاس"
-],
-"posts": null,
-"deadline": "2026-11-26",
-"exam": null,
-"published": "2026-11-11",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23833",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "مؤسسة دار الصانع: مباراة توظيف 1 متصرف من الدرجة الثانية في عدة تخصصات. آخر أجل للترشيح هو 26 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"posts": null,
-"deadline": "2026-11-26",
-"exam": null,
-"published": "2026-11-07",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23808",
 "lang": "ar"
 },
 {
@@ -2887,15 +2792,15 @@
 },
 {
 "type": "concours",
-"title": "administrateur 2eme grade 1 jours restants Univesité Chouaïb Doukkali - El Jadida Annonce 1 poste Limite de dépôt : 26 Novembre 2026 Technicien de 3ème grade 1 jours restants Univesité Chouaïb Doukkali - El Jadida Annonce 1 poste Limite de dépôt : 26 Novembre 2026 Technicien de 3ème grade 1 jours restants Univesité Chouaïb Doukkali - El Jadida Annonce 1 poste Limite de dépôt : 26 Novembre 2026 Cadre « QHSE » (Qualité, Hygiène, Sécurité, Environnement) 2 jours restants Société Rabat Région Emergence Annonce 1 poste Limite de dépôt : 26 Novembre 2026 - 16:00 Créer une alerte",
-"title_ar": "متصرف من الدرجة الثالثة",
-"org": "Univesité Chouaïb Doukkali - El Jadida",
+"title": "Technicien(ne) spécialisé(e) de support audio visuel et logistique 1 jours restants Agence nationale du soutien social Annonce Dépôt en ligne 1 poste Limite de dépôt : 26 Novembre 2026 Chargés (e) de Support Polyvalent aux Représentations Territoriales Sidi Kacem et Taounate 1 jours restants Agence nationale du soutien social Annonce Dépôt en ligne 2 poste Limite de dépôt : 26 Novembre 2026 Technicien(ne) spécialisé(e) en Bâtiment 1 jours restants Agence nationale du soutien social Annonce Dépôt en ligne 1 poste Limite de dépôt : 26 Novembre 2026 Cadre Comptable et Financier 1 jours restants Agence nationale du soutien social Annonce Dépôt en ligne 1 poste Limite de dépôt : 26 Novembre 2026 Créer une alerte",
+"title_ar": "تقني",
+"org": "Agence nationale du soutien social",
 "cities": [],
 "posts": 1,
 "deadline": "2026-11-26",
 "exam": null,
 "source": "emploi-public.ma",
-"url": "https://www.emploi-public.ma/fr/concours/details/260ea819-855a-4c97-a553-ce9d06b464a5"
+"url": "https://www.emploi-public.ma/fr/concours/details/2fef0122-6371-4de3-af5f-54385044d832"
 },
 {
 "type": "concours",
@@ -2968,42 +2873,6 @@
 "exam": "2026-12-06",
 "source": "emploi-public.ma",
 "url": "https://www.emploi-public.ma/fr/concours/details/c1856307-e18c-4053-8079-1efd4ebd63dd"
-},
-{
-"type": "concours",
-"title": "Spécialiste social 2ème grade",
-"title_ar": "",
-"org": "Ministère de l’Education Nationale, du Préscolaire, de la Formation professionnelle et de la Qualification - Département de l’Education nationale",
-"cities": [],
-"posts": 1000,
-"deadline": "2026-11-25",
-"exam": "2026-12-05",
-"source": "emploi-public.ma",
-"url": "https://www.emploi-public.ma/fr/concours/details/96a8aed2-a1e6-438f-bf45-556e8168bbcf"
-},
-{
-"type": "concours",
-"title": "Spécialiste d'économie et administration 2ème grade",
-"title_ar": "",
-"org": "Ministère de l’Education Nationale, du Préscolaire, de la Formation professionnelle et de la Qualification - Département de l’Education nationale",
-"cities": [],
-"posts": 559,
-"deadline": "2026-11-25",
-"exam": "2026-12-05",
-"source": "emploi-public.ma",
-"url": "https://www.emploi-public.ma/fr/concours/details/635d1ad9-b421-4ef4-b5ef-6cf021ba412a"
-},
-{
-"type": "concours",
-"title": "Spécialiste pédagogique 2ème grade",
-"title_ar": "",
-"org": "Ministère de l’Education Nationale, du Préscolaire, de la Formation professionnelle et de la Qualification - Département de l’Education nationale",
-"cities": [],
-"posts": 200,
-"deadline": "2026-11-25",
-"exam": "2026-12-05",
-"source": "emploi-public.ma",
-"url": "https://www.emploi-public.ma/fr/concours/details/b4147b79-25b9-4344-a801-20220a6b5cd4"
 }
 ]
 }
