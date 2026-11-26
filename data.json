@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T09:19:06Z",
+"updated": "2026-11-26T17:54:33Z",
 "sources": {
 "emploi-public.ma": {
 "ok": true,
@@ -2684,6 +2684,42 @@
 },
 {
 "type": "concours",
+"title": "Technicien de 3ème grade - Echelle 9",
+"title_ar": "تقني من الدرجة الثالثة - السلم 9",
+"org": "Ministère de la Santé et de la Protection sociale",
+"cities": [],
+"posts": 120,
+"deadline": "2027-02-19",
+"exam": "2027-03-07",
+"source": "emploi-public.ma",
+"url": "https://www.emploi-public.ma/fr/concours/details/91221b77-0392-49e0-8e6c-b1ca9bb70b9e"
+},
+{
+"type": "concours",
+"title": "Pharmacien premier grade - Echelle 11",
+"title_ar": "صيدلي - السلم 11",
+"org": "Ministère de la Santé et de la Protection sociale",
+"cities": [],
+"posts": 4,
+"deadline": "2026-12-18",
+"exam": "2027-01-03",
+"source": "emploi-public.ma",
+"url": "https://www.emploi-public.ma/fr/concours/details/7d32403a-c665-4897-9772-13e69b32b643"
+},
+{
+"type": "concours",
+"title": "Médecins premier grade - Echelle 11",
+"title_ar": "طبيب - السلم 11",
+"org": "Ministère de la Santé et de la Protection sociale",
+"cities": [],
+"posts": 74,
+"deadline": "2026-12-18",
+"exam": "2027-01-03",
+"source": "emploi-public.ma",
+"url": "https://www.emploi-public.ma/fr/concours/details/9d21f49c-97f2-47af-83e0-33d28ee13922"
+},
+{
+"type": "concours",
 "title": "Administrateur 2ème grade - Echelle 11",
 "title_ar": "متصرف من الدرجة الثانية - السلم 11",
 "org": "Ministère de l’Agriculture, de la Pêche maritime et de la Souveraineté alimentaire - Département de l’Agriculture",
@@ -2756,6 +2792,18 @@
 },
 {
 "type": "concours",
+"title": "Technicien(ne) spécialisé(e) de support audio visuel et logistique 1 jours restants Agence nationale du soutien social Annonce Dépôt en ligne 1 poste Limite de dépôt : 26 Novembre 2026 Chargés (e) de Support Polyvalent aux Représentations Territoriales Sidi Kacem et Taounate 1 jours restants Agence nationale du soutien social Annonce Dépôt en ligne 2 poste Limite de dépôt : 26 Novembre 2026 Technicien(ne) spécialisé(e) en Bâtiment 1 jours restants Agence nationale du soutien social Annonce Dépôt en ligne 1 poste Limite de dépôt : 26 Novembre 2026 Cadre Comptable et Financier 1 jours restants Agence nationale du soutien social Annonce Dépôt en ligne 1 poste Limite de dépôt : 26 Novembre 2026 Créer une alerte",
+"title_ar": "تقني",
+"org": "Agence nationale du soutien social",
+"cities": [],
+"posts": 1,
+"deadline": "2026-11-26",
+"exam": null,
+"source": "emploi-public.ma",
+"url": "https://www.emploi-public.ma/fr/concours/details/2fef0122-6371-4de3-af5f-54385044d832"
+},
+{
+"type": "concours",
 "title": "Adjoint technique 2ème grade",
 "title_ar": "مساعد من الدرجة الثانية",
 "org": "Ministère de la Santé et de la Protection sociale",
@@ -2789,18 +2837,6 @@
 "exam": "2027-01-31",
 "source": "emploi-public.ma",
 "url": "https://www.emploi-public.ma/fr/concours/details/f13bac44-60cc-4ed5-897a-905111afbeb2"
-},
-{
-"type": "concours",
-"title": "Technicien(ne) spécialisé(e) de support audio visuel et logistique 1 jours restants Agence nationale du soutien social Annonce Dépôt en ligne 1 poste Limite de dépôt : 26 Novembre 2026 Chargés (e) de Support Polyvalent aux Représentations Territoriales Sidi Kacem et Taounate 1 jours restants Agence nationale du soutien social Annonce Dépôt en ligne 2 poste Limite de dépôt : 26 Novembre 2026 Technicien(ne) spécialisé(e) en Bâtiment 1 jours restants Agence nationale du soutien social Annonce Dépôt en ligne 1 poste Limite de dépôt : 26 Novembre 2026 Cadre Comptable et Financier 1 jours restants Agence nationale du soutien social Annonce Dépôt en ligne 1 poste Limite de dépôt : 26 Novembre 2026 Créer une alerte",
-"title_ar": "تقني",
-"org": "Agence nationale du soutien social",
-"cities": [],
-"posts": 1,
-"deadline": "2026-11-26",
-"exam": null,
-"source": "emploi-public.ma",
-"url": "https://www.emploi-public.ma/fr/concours/details/2fef0122-6371-4de3-af5f-54385044d832"
 },
 {
 "type": "concours",
