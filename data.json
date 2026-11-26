@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T17:54:33Z",
+"updated": "2026-11-26T21:02:59Z",
 "sources": {
 "emploi-public.ma": {
 "ok": true,
@@ -11,7 +11,7 @@
 },
 "alwadifa-maroc.com": {
 "ok": true,
-"count": 37
+"count": 38
 },
 "dreamjob.ma": {
 "ok": false,
@@ -20,6 +20,20 @@
 }
 },
 "items": [
+{
+"type": "concours",
+"title": "وزارة الصحة والحماية الإجتماعية: مباراة توظيف 120 تقنيا من الدرجة الثالثة في عدة تخصصات. آخر أجل للترشيح هو 19 فبراير 2027",
+"title_ar": "",
+"org": "",
+"cities": [],
+"posts": null,
+"deadline": "2027-02-19",
+"exam": null,
+"published": "2026-11-26",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23895",
+"lang": "ar"
+},
 {
 "type": "concours",
 "title": "المندوبية السامية للتخطيط: مرشحي مباراة توظيف 11 متصرفا من الدرجة الثانية تخصص الاحصاء والاقتصاد التطبيقي ليوم 29 نونبر 2026",
