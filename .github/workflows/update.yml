@@ -1,10 +1,8 @@
 name: update-data
 on:
   schedule:
-    - cron: "17 2 * * *"
-    - cron: "47 5 * * *"
-    - cron: "23 9 * * *"
-    - cron: "53 14 * * *"
+    - cron: "11 */3 * * *"
+    - cron: "41 4 * * *"
   workflow_dispatch:
   push:
     paths: ["scrape.py", ".github/workflows/update.yml"]
@@ -21,4 +19,8 @@ jobs:
       - run: python scrape.py
       - run: |
           git config user.name bot; git config user.email bot@users.noreply.github.com
-          git add data.json; git diff --cached --quiet || (git commit -m "update data" && git pull --rebase && git push)
+          git add data.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "update data"
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && exit 0; sleep 5; done
+          exit 1
