@@ -196,7 +196,10 @@ def src_dreamjob(pages=4):
     for p in range(1, pages + 1):
         try:
             items = list(rss("https://www.dreamjob.ma/feed/" + ("?paged=%d" % p if p > 1 else "")))
-        except Exception:
+        except Exception as e:
+            print("dreamjob page", p, "error:", repr(e)[:200], file=sys.stderr)
+            if p == 1:
+                raise RuntimeError("dreamjob feed error: " + repr(e)[:90])
             break
         for t, link, desc, pd, cats in items:
             path = link.split("dreamjob.ma/")[-1].split("/")[0]
