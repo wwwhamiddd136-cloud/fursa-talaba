@@ -1,9 +1,10 @@
 {
-"updated": "2026-11-26T21:02:59Z",
+"updated": "2026-11-26T21:09:03Z",
 "sources": {
 "emploi-public.ma": {
-"ok": true,
-"count": 550
+"ok": false,
+"count": 19,
+"error": "The read operation timed out"
 },
 "stage.ma": {
 "ok": true,
