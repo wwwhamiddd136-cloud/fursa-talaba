@@ -1,10 +1,9 @@
 {
-"updated": "2026-11-26T21:09:03Z",
+"updated": "2026-11-27T00:18:08Z",
 "sources": {
 "emploi-public.ma": {
-"ok": false,
-"count": 19,
-"error": "The read operation timed out"
+"ok": true,
+"count": 550
 },
 "stage.ma": {
 "ok": true,
@@ -12,7 +11,7 @@
 },
 "alwadifa-maroc.com": {
 "ok": true,
-"count": 38
+"count": 34
 },
 "dreamjob.ma": {
 "ok": false,
@@ -21,6 +20,34 @@
 }
 },
 "items": [
+{
+"type": "concours",
+"title": "شركة صورياد 2M: مباريات توظيف 55 منصب في عدة تخصصات ومجالات، آخر أجل هو 11 دجنبر 2026",
+"title_ar": "",
+"org": "",
+"cities": [],
+"posts": null,
+"deadline": "2026-12-11",
+"exam": null,
+"published": "2026-11-27",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23897",
+"lang": "ar"
+},
+{
+"type": "concours",
+"title": "عمالة إقليم تاونات: مباراة مشتركة بين الجماعات لتوظيف 138 منصبا من تقنيين من الدرجة الثالثة والرابعة في عدة تخصصات",
+"title_ar": "",
+"org": "",
+"cities": [],
+"posts": null,
+"deadline": null,
+"exam": null,
+"published": "2026-11-26",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23896",
+"lang": "ar"
+},
 {
 "type": "concours",
 "title": "وزارة الصحة والحماية الإجتماعية: مباراة توظيف 120 تقنيا من الدرجة الثالثة في عدة تخصصات. آخر أجل للترشيح هو 19 فبراير 2027",
@@ -92,20 +119,6 @@
 "published": "2026-11-25",
 "source": "alwadifa-maroc.com",
 "url": "https://alwadifa-maroc.com/offre/show/id/23891",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "المجلس الأعلى للسلطة القضائية: اللوائح النهائية لمباراة توظيف 15 أمينا قضائيا مساعدا من الدرجة الرابعة في عدة تخصصات، ليوم 27 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [],
-"posts": null,
-"deadline": "2026-11-27",
-"exam": null,
-"published": "2026-11-25",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23890",
 "lang": "ar"
 },
 {
@@ -2448,20 +2461,6 @@
 },
 {
 "type": "concours",
-"title": "المجلس الأعلى للسلطة القضائية: اللوائح الأولية لمباراة توظيف 15 أمينا قضائيا مساعدا من الدرجة الرابعة في عدة تخصصات، ليوم 27 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [],
-"posts": null,
-"deadline": "2026-11-27",
-"exam": null,
-"published": "2026-11-17",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23865",
-"lang": "ar"
-},
-{
-"type": "concours",
 "title": "جامعة سيدي محمد بن عبد الله بفاس: مباراة توظيف أطر إدارية وتقني - 13 منصبا. آخر أجل للترشيح هو 02 دجنبر 2026",
 "title_ar": "",
 "org": "",
@@ -2474,54 +2473,6 @@
 "published": "2026-11-17",
 "source": "alwadifa-maroc.com",
 "url": "https://alwadifa-maroc.com/offre/show/id/23864",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "جامعة شعيب الدكالي - الجديدة: مباراة توظيف 01 تقني من الدرجة الثالثة برئاسة الجامعة. الترشيح قبل 28 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"الجديدة"
-],
-"posts": null,
-"deadline": "2026-11-28",
-"exam": null,
-"published": "2026-11-16",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23861",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "جامعة محمد الأول - وجدة: مباراة توظيف 08 أساتذة محاضرين. الترشيح قبل 28 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"وجدة"
-],
-"posts": null,
-"deadline": "2026-11-28",
-"exam": null,
-"published": "2026-11-16",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23860",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "جامعة محمد الأول - وجدة: مباراة توظيف 02 متصرفان من الدرجة الثانية. الترشيح قبل 28 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"وجدة"
-],
-"posts": null,
-"deadline": "2026-11-28",
-"exam": null,
-"published": "2026-11-16",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23859",
 "lang": "ar"
 },
 {
@@ -2550,23 +2501,6 @@
 "published": "2026-11-16",
 "source": "alwadifa-maroc.com",
 "url": "https://alwadifa-maroc.com/offre/show/id/23856",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "الوكالة الجهوية لتنفيذ المشاريع بني ملال - خنيفرة: مباراة توظيف 03 أعوان إشراف. آخر أجل للترشيح هو 27 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"بني ملال",
-"خنيفرة"
-],
-"posts": null,
-"deadline": "2026-11-27",
-"exam": null,
-"published": "2026-11-15",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23854",
 "lang": "ar"
 },
 {
@@ -2807,15 +2741,15 @@
 },
 {
 "type": "concours",
-"title": "Technicien(ne) spécialisé(e) de support audio visuel et logistique 1 jours restants Agence nationale du soutien social Annonce Dépôt en ligne 1 poste Limite de dépôt : 26 Novembre 2026 Chargés (e) de Support Polyvalent aux Représentations Territoriales Sidi Kacem et Taounate 1 jours restants Agence nationale du soutien social Annonce Dépôt en ligne 2 poste Limite de dépôt : 26 Novembre 2026 Technicien(ne) spécialisé(e) en Bâtiment 1 jours restants Agence nationale du soutien social Annonce Dépôt en ligne 1 poste Limite de dépôt : 26 Novembre 2026 Cadre Comptable et Financier 1 jours restants Agence nationale du soutien social Annonce Dépôt en ligne 1 poste Limite de dépôt : 26 Novembre 2026 Créer une alerte",
-"title_ar": "تقني",
-"org": "Agence nationale du soutien social",
+"title": "Technicien de 4ème grade - echelle 8 1 jours restants Province de Guercif Annonce Dépôt en ligne 1 poste Limite de dépôt : 27 Novembre 2026 Date du concours : 19 Décembre 2026 Technicien de 3ème grade - echelle 9 1 jours restants Archives du Maroc Annonce Dépôt en ligne 1 poste Limite de dépôt : 27 Novembre 2026 Date du concours : 6 Décembre 2026 (Chef de pôle Digital et Intelligence Artificielle - Marrakech (RH 178/2026 1 jours restants Office de la Formation Professionnelle et de la Promotion du Travail Annonce 1 poste Limite de dépôt : 28 Novembre 2026 (Conseiller(ère) en Orientation-Al Hoceima – Bouarfa – Guelmim – Sidi Slimane – Taounate - Zagora (RH 179/2026 1 jours restants Office de la Formation Professionnelle et de la Promotion du Travail Annonce 6 poste Limite de dépôt : 28 Novembre 2026 Créer une alerte",
+"title_ar": "تقني من الدرجة الرابعة",
+"org": "Province de Guercif",
 "cities": [],
-"posts": 1,
-"deadline": "2026-11-26",
+"posts": 6,
+"deadline": "2026-11-28",
 "exam": null,
 "source": "emploi-public.ma",
-"url": "https://www.emploi-public.ma/fr/concours/details/2fef0122-6371-4de3-af5f-54385044d832"
+"url": "https://www.emploi-public.ma/fr/concours/details/bc713631-4f00-469f-8a0d-afbb4365335c"
 },
 {
 "type": "concours",
@@ -2888,42 +2822,6 @@
 "exam": "2026-12-17",
 "source": "emploi-public.ma",
 "url": "https://www.emploi-public.ma/fr/concours/details/bc216516-0478-4fb6-a857-a114988f6cb3"
-},
-{
-"type": "concours",
-"title": "Commandant pénitentiaire adjoint 1er grade",
-"title_ar": "",
-"org": "Délégation générale à l'administration pénitentiaire et à la réinsertion",
-"cities": [],
-"posts": 28,
-"deadline": "2026-11-26",
-"exam": "2026-12-06",
-"source": "emploi-public.ma",
-"url": "https://www.emploi-public.ma/fr/concours/details/b2542f15-9180-4680-9a40-56cab838599c"
-},
-{
-"type": "concours",
-"title": "Surveillant pénitentiaire chef 2ème grade",
-"title_ar": "",
-"org": "Délégation générale à l'administration pénitentiaire et à la réinsertion",
-"cities": [],
-"posts": 200,
-"deadline": "2026-11-26",
-"exam": "2026-12-06",
-"source": "emploi-public.ma",
-"url": "https://www.emploi-public.ma/fr/concours/details/cc2bd7ff-97cf-4de3-9665-4e7c05c3c825"
-},
-{
-"type": "concours",
-"title": "Surveillant pénitentiaire adjoint 2ème grade",
-"title_ar": "",
-"org": "Délégation générale à l'administration pénitentiaire et à la réinsertion",
-"cities": [],
-"posts": 120,
-"deadline": "2026-11-26",
-"exam": "2026-12-06",
-"source": "emploi-public.ma",
-"url": "https://www.emploi-public.ma/fr/concours/details/c1856307-e18c-4053-8079-1efd4ebd63dd"
 }
 ]
 }
