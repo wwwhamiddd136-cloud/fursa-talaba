@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T12:20:16Z",
+"updated": "2026-11-27T14:22:10Z",
 "sources": {
 "emploi-public.ma": {
 "ok": true,
@@ -2647,6 +2647,30 @@
 },
 {
 "type": "concours",
+"title": "Pharmacien premier grade - Echelle 11",
+"title_ar": "صيدلي - السلم 11",
+"org": "Ministère de la Santé et de la Protection sociale",
+"cities": [],
+"posts": 1,
+"deadline": "2026-12-16",
+"exam": "2026-12-20",
+"source": "emploi-public.ma",
+"url": "https://www.emploi-public.ma/fr/concours/details/32478282-4603-43aa-954e-d392e3e2ff29"
+},
+{
+"type": "concours",
+"title": "Médecins premier grade - Echelle 11",
+"title_ar": "طبيب - السلم 11",
+"org": "Ministère de la Santé et de la Protection sociale",
+"cities": [],
+"posts": 4,
+"deadline": "2026-12-16",
+"exam": "2026-12-20",
+"source": "emploi-public.ma",
+"url": "https://www.emploi-public.ma/fr/concours/details/4a766760-a2c7-424b-be18-811cecb52459"
+},
+{
+"type": "concours",
 "title": "Technicien de 3ème grade - Echelle 9",
 "title_ar": "تقني من الدرجة الثالثة - السلم 9",
 "org": "Ministère de la Santé et de la Protection sociale",
@@ -2731,6 +2755,18 @@
 },
 {
 "type": "concours",
+"title": "Technicien de 4ème grade - echelle 8 1 jours restants Province de Guercif Annonce Dépôt en ligne 1 poste Limite de dépôt : 27 Novembre 2026 Date du concours : 19 Décembre 2026 Technicien de 3ème grade - echelle 9 1 jours restants Archives du Maroc Annonce Dépôt en ligne 1 poste Limite de dépôt : 27 Novembre 2026 Date du concours : 6 Décembre 2026 (Chef de pôle Digital et Intelligence Artificielle - Marrakech (RH 178/2026 1 jours restants Office de la Formation Professionnelle et de la Promotion du Travail Annonce 1 poste Limite de dépôt : 28 Novembre 2026 (Conseiller(ère) en Orientation-Al Hoceima – Bouarfa – Guelmim – Sidi Slimane – Taounate - Zagora (RH 179/2026 1 jours restants Office de la Formation Professionnelle et de la Promotion du Travail Annonce 6 poste Limite de dépôt : 28 Novembre 2026 Créer une alerte",
+"title_ar": "تقني من الدرجة الرابعة",
+"org": "Province de Guercif",
+"cities": [],
+"posts": 6,
+"deadline": "2026-11-28",
+"exam": null,
+"source": "emploi-public.ma",
+"url": "https://www.emploi-public.ma/fr/concours/details/bc713631-4f00-469f-8a0d-afbb4365335c"
+},
+{
+"type": "concours",
 "title": "Ingénieur d'Etat 1er grade - Echelle 11",
 "title_ar": "مهندس دولة من الدرجة الأولى - السلم 11",
 "org": "Ministère de la Santé et de la Protection sociale",
@@ -2752,18 +2788,6 @@
 "exam": "2027-02-14",
 "source": "emploi-public.ma",
 "url": "https://www.emploi-public.ma/fr/concours/details/254a4ccc-b3d1-43d0-8b7d-a23d818766b2"
-},
-{
-"type": "concours",
-"title": "Technicien de 4ème grade - echelle 8 1 jours restants Province de Guercif Annonce Dépôt en ligne 1 poste Limite de dépôt : 27 Novembre 2026 Date du concours : 19 Décembre 2026 Technicien de 3ème grade - echelle 9 1 jours restants Archives du Maroc Annonce Dépôt en ligne 1 poste Limite de dépôt : 27 Novembre 2026 Date du concours : 6 Décembre 2026 (Chef de pôle Digital et Intelligence Artificielle - Marrakech (RH 178/2026 1 jours restants Office de la Formation Professionnelle et de la Promotion du Travail Annonce 1 poste Limite de dépôt : 28 Novembre 2026 (Conseiller(ère) en Orientation-Al Hoceima – Bouarfa – Guelmim – Sidi Slimane – Taounate - Zagora (RH 179/2026 1 jours restants Office de la Formation Professionnelle et de la Promotion du Travail Annonce 6 poste Limite de dépôt : 28 Novembre 2026 Créer une alerte",
-"title_ar": "تقني من الدرجة الرابعة",
-"org": "Province de Guercif",
-"cities": [],
-"posts": 6,
-"deadline": "2026-11-28",
-"exam": null,
-"source": "emploi-public.ma",
-"url": "https://www.emploi-public.ma/fr/concours/details/bc713631-4f00-469f-8a0d-afbb4365335c"
 },
 {
 "type": "concours",
