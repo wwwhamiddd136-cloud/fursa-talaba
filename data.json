@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T00:18:08Z",
+"updated": "2026-11-27T01:43:11Z",
 "sources": {
 "emploi-public.ma": {
 "ok": true,
@@ -11,7 +11,7 @@
 },
 "alwadifa-maroc.com": {
 "ok": true,
-"count": 34
+"count": 35
 },
 "dreamjob.ma": {
 "ok": false,
@@ -20,6 +20,20 @@
 }
 },
 "items": [
+{
+"type": "concours",
+"title": "وزارة الصحة والحماية الاجتماعية: النتائج النهائية لمباراة توظيف 2094 منصبا من أطر هيئة الممرضين وتقنيي الصحة بجهات المملكة",
+"title_ar": "",
+"org": "",
+"cities": [],
+"posts": null,
+"deadline": null,
+"exam": null,
+"published": "2026-11-27",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23898",
+"lang": "ar"
+},
 {
 "type": "concours",
 "title": "شركة صورياد 2M: مباريات توظيف 55 منصب في عدة تخصصات ومجالات، آخر أجل هو 11 دجنبر 2026",
