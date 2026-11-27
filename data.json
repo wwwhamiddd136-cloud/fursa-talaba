@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T18:20:08Z",
+"updated": "2026-11-27T21:10:57Z",
 "sources": {
 "emploi-public.ma": {
 "ok": true,
@@ -11,7 +11,7 @@
 },
 "alwadifa-maroc.com": {
 "ok": true,
-"count": 35
+"count": 38
 },
 "dreamjob.ma": {
 "ok": false,
@@ -20,6 +20,54 @@
 }
 },
 "items": [
+{
+"type": "concours",
+"title": "الوكالة الوطنية للسلامة الطرقية: مباراة توظيف 8 متصرفين من الدرجة الثانية في عدة تخصصات. آخر أجل هو 11 دجنبر 2026",
+"title_ar": "",
+"org": "",
+"cities": [
+"الرباط"
+],
+"posts": null,
+"deadline": "2026-12-11",
+"exam": null,
+"published": "2026-11-27",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23901",
+"lang": "ar"
+},
+{
+"type": "concours",
+"title": "الوكالة الوطنية للسلامة الطرقية: مباراة توظيف 87 تقنيا من الدرجة الثالثة في عدة تخصصات. آخر أجل هو 11 دجنبر 2026",
+"title_ar": "",
+"org": "",
+"cities": [
+"الرباط"
+],
+"posts": null,
+"deadline": "2026-12-11",
+"exam": null,
+"published": "2026-11-27",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23900",
+"lang": "ar"
+},
+{
+"type": "concours",
+"title": "المجلس الأعلى للسلطة القضائية: مباراة توظيف 300 ملحق قضائي. آخر أجل للترشيح هو 18 دجنبر 2026",
+"title_ar": "",
+"org": "",
+"cities": [
+"سلا"
+],
+"posts": null,
+"deadline": "2026-12-18",
+"exam": null,
+"published": "2026-11-27",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23899",
+"lang": "ar"
+},
 {
 "type": "concours",
 "title": "وزارة الصحة والحماية الاجتماعية: النتائج النهائية لمباراة توظيف 2094 منصبا من أطر هيئة الممرضين وتقنيي الصحة بجهات المملكة",
