@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T21:10:57Z",
+"updated": "2026-11-28T00:18:08Z",
 "sources": {
 "emploi-public.ma": {
 "ok": true,
@@ -11,7 +11,7 @@
 },
 "alwadifa-maroc.com": {
 "ok": true,
-"count": 38
+"count": 37
 },
 "dreamjob.ma": {
 "ok": false,
@@ -20,6 +20,37 @@
 }
 },
 "items": [
+{
+"type": "concours",
+"title": "المديرية العامة للوقاية المدنية: المرشحين المدعوين لاجتياز الاختبارات الرياضية لمباراة ولوج سلك التكوين الأساسي الخاص بالتلاميذ الضباط - 40 منصب",
+"title_ar": "",
+"org": "",
+"cities": [],
+"posts": null,
+"deadline": null,
+"exam": null,
+"published": "2026-11-28",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23903",
+"lang": "ar"
+},
+{
+"type": "concours",
+"title": "المجموعة الصحية الترابية فاس مكناس: مباريات توظيف ممرضين وتقنيي الصحة من الدرجة الأولى - 199 منصب. آخر أجل هو 11 دجنبر 2026",
+"title_ar": "",
+"org": "",
+"cities": [
+"فاس",
+"مكناس"
+],
+"posts": null,
+"deadline": "2026-12-11",
+"exam": null,
+"published": "2026-11-27",
+"source": "alwadifa-maroc.com",
+"url": "https://alwadifa-maroc.com/offre/show/id/23902",
+"lang": "ar"
+},
 {
 "type": "concours",
 "title": "الوكالة الوطنية للسلامة الطرقية: مباراة توظيف 8 متصرفين من الدرجة الثانية في عدة تخصصات. آخر أجل هو 11 دجنبر 2026",
@@ -167,20 +198,6 @@
 "published": "2026-11-25",
 "source": "alwadifa-maroc.com",
 "url": "https://alwadifa-maroc.com/offre/show/id/23892",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "لوائح المترشحات والمترشحين المقبولين لاجتياز الاختبارات الكتابية لمباريات ولوج سلك تأهيل أطر التدريس بالمراكز الجهوية لمهن التربية والتكوين",
-"title_ar": "",
-"org": "",
-"cities": [],
-"posts": null,
-"deadline": null,
-"exam": null,
-"published": "2026-11-25",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23891",
 "lang": "ar"
 },
 {
@@ -2567,22 +2584,6 @@
 },
 {
 "type": "concours",
-"title": "شركة المنشآت الرياضية للرباط: مباراة توظيف 21 منصب من مهندسين وأطر وتقنيين متخصصين في عدة تخصصات، آخر أجل 28 نونبر 2026",
-"title_ar": "",
-"org": "",
-"cities": [
-"الرباط"
-],
-"posts": null,
-"deadline": "2026-11-28",
-"exam": null,
-"published": "2026-11-14",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23846",
-"lang": "ar"
-},
-{
-"type": "concours",
 "title": "وزارة العدل: مبارة توظيف 30 محررا قضائيا من الدرجة الثالثة في عدة تخصصات. آخر أجل للترشيح هو 2 دجنبر 2026",
 "title_ar": "",
 "org": "",
@@ -2649,20 +2650,6 @@
 "published": "2026-11-13",
 "source": "alwadifa-maroc.com",
 "url": "https://alwadifa-maroc.com/offre/show/id/23840",
-"lang": "ar"
-},
-{
-"type": "concours",
-"title": "البرامج الرسمية وإصدار بطاقات توصيف الاختبارات الكتابية لمباريات ولوج سلك تأهيل أطر التدريس بالمراكز الجهوية لمهن التربية والتكوين",
-"title_ar": "",
-"org": "",
-"cities": [],
-"posts": null,
-"deadline": null,
-"exam": null,
-"published": "2026-11-12",
-"source": "alwadifa-maroc.com",
-"url": "https://alwadifa-maroc.com/offre/show/id/23838",
 "lang": "ar"
 },
 {
@@ -2803,15 +2790,15 @@
 },
 {
 "type": "concours",
-"title": "Technicien de 4ème grade - echelle 8 1 jours restants Province de Guercif Annonce Dépôt en ligne 1 poste Limite de dépôt : 27 Novembre 2026 Date du concours : 19 Décembre 2026 Technicien de 3ème grade - echelle 9 1 jours restants Archives du Maroc Annonce Dépôt en ligne 1 poste Limite de dépôt : 27 Novembre 2026 Date du concours : 6 Décembre 2026 (Chef de pôle Digital et Intelligence Artificielle - Marrakech (RH 178/2026 1 jours restants Office de la Formation Professionnelle et de la Promotion du Travail Annonce 1 poste Limite de dépôt : 28 Novembre 2026 (Conseiller(ère) en Orientation-Al Hoceima – Bouarfa – Guelmim – Sidi Slimane – Taounate - Zagora (RH 179/2026 1 jours restants Office de la Formation Professionnelle et de la Promotion du Travail Annonce 6 poste Limite de dépôt : 28 Novembre 2026 Créer une alerte",
-"title_ar": "تقني من الدرجة الرابعة",
-"org": "Province de Guercif",
+"title": "Maitre de conférences à la Faculté des sciences appliquées à Ouarzazate spécialité Informatique 1 jours restants Université Ibn Zohr - Agadir Annonce 1 poste Limite de dépôt : 29 Novembre 2026 Date du concours : 8 Décembre 2026 Maitre de conférences à la Fac.d'Economie et de Gestion de Taroudant Spécialité Mathématiques appliquéess 1 jours restants Université Ibn Zohr - Agadir Annonce 1 poste Limite de dépôt : 29 Novembre 2026 Date du concours : 8 Décembre 2026 Maîtres de Conférences en Médecine et Pharmacie session 10 Décembre 2026 à la Faculté de Médecine et Pharmacie Tanger 2 jours restants Université Abdelmalek Essaâdi - Tétouan Annonce 17 poste Limite de dépôt : 29 Novembre 2026 - 16:30 Maitre de conférence au profit de la Faculté de Médecine et de Pharmacie Beni Mellal 2 jours restants Université Hassan II - Casablanca Annonce 2 poste Limite de dépôt : 29 Novembre 2026 - 16:30 Date du concours : 10 Décembre 2026 Créer une alerte",
+"title_ar": "",
+"org": "Université Ibn Zohr - Agadir",
 "cities": [],
-"posts": 6,
-"deadline": "2026-11-28",
-"exam": null,
+"posts": 2,
+"deadline": "2026-11-29",
+"exam": "2026-12-10",
 "source": "emploi-public.ma",
-"url": "https://www.emploi-public.ma/fr/concours/details/bc713631-4f00-469f-8a0d-afbb4365335c"
+"url": "https://www.emploi-public.ma/fr/concours/details/08b09353-5bd4-41ea-a636-890ac5fc5896"
 },
 {
 "type": "concours",
